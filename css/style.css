@@ -1,3 +1,15 @@
 .download {
 	margin-top: 20px;
 }
+.imgBanner{
+	-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+margin: 0 auto;
+width: 100%;
+max-width: 1920px;
+}
+.carousel-inner > .item > img{
+	height: auto;
+}
