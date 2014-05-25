@@ -1,15 +1,38 @@
 .download {
 	margin-top: 20px;
 }
-.imgBanner{
-	-webkit-background-size: cover;
--moz-background-size: cover;
--o-background-size: cover;
-background-size: cover;
-margin: 0 auto;
-width: 100%;
-max-width: 1920px;
+
+.carousel {
+	margin-bottom: 40px;
 }
-.carousel-inner > .item > img{
-	height: auto;
+
+.imgBanne {
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	margin: 0 auto;
+	width: 100%;
+	max-width: 1920px;
+}
+
+.letter-cont {
+	text-align: center;
+}
+
+.letter-title {
+	font-size: 50px;
+	margin-bottom: 30px;
+}
+
+.letter-color {
+	text-align: center;
+}
+
+.letter-color > h4 {
+	text-align: center;
+}
+
+.carousel-inner > .item > img {
+	height: 100%;
 }
