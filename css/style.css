@@ -16,6 +16,37 @@
 	max-width: 1920px;
 }
 
+.navbar-inverse .navbar-brand {
+	color: #fff;
+}
+
+.navbar-inverse {
+	background-color: #f0ad4e;
+	border-color: #eea236;
+}
+
+.navbar-inverse .navbar-nav>.active>a {
+	color: #fff;
+}
+
+.navbar-inverse .navbar-toggle,
+.navbar-inverse .navbar-toggle:focus,
+.navbar-inverse .navbar-toggle:hover,
+.navbar-inverse .navbar-nav>.active>a, 
+.navbar-inverse .navbar-nav>.active>a:hover {
+	background-color: #ed9c28;
+	border-color: #d58512;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: #fff;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover {
+	background-color: #ed9c28;
+	border-color: #d58512;
+}
+
 .letter-cont {
 	text-align: center;
 }
@@ -35,4 +66,8 @@
 
 .carousel-inner > .item > img {
 	height: 100%;
+}
+
+.carousel .item {
+	max-height: 500px;
 }
