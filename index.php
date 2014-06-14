@@ -16,32 +16,9 @@
     <script src="js/docs.min.js"></script>
 	</head>
 	<body>
-  	<div class="navbar-wrapper">
-  		<div class="container">
-    		<div class="navbar navbar-inverse navbar-static-top" role="navigation">
-        	<div class="container">
-      			<div class="navbar-header">
-            	<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            	</button>
-              <a class="navbar-brand" href="#">Fleibor</a>
-            </div>
-            <div class="navbar-collapse collapse">
-              <ul class="nav navbar-nav">
-                <li class="active"><a href="#">Home</a></li>
-                <li><a href="#about">Productos</a></li>
-                <li><a href="#events">Eventos</a></li>
-                <li><a href="#company">Empresa</a></li>
-                <li><a href="#contact">Contactenos</a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
+  	<?php
+      include("header.php");
+    ?>
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
       <ol class="carousel-indicators">
         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -75,29 +52,32 @@
         <div class="col-lg-3 letter-color">
           <img class="img-circle" data-src="holder.js/140x140" alt="140x140" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNDAiIGhlaWdodD0iMTQwIj48cmVjdCB3aWR0aD0iMTQwIiBoZWlnaHQ9IjE0MCIgZmlsbD0iI2VlZSI+PC9yZWN0Pjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjcwIiB5PSI3MCIgc3R5bGU9ImZpbGw6I2FhYTtmb250LXdlaWdodDpib2xkO2ZvbnQtc2l6ZToxMnB4O2ZvbnQtZmFtaWx5OkFyaWFsLEhlbHZldGljYSxzYW5zLXNlcmlmO2RvbWluYW50LWJhc2VsaW5lOmNlbnRyYWwiPjE0MHgxNDA8L3RleHQ+PC9zdmc+" style="width: 140px; height: 140px;">
           <h4>Colorante en Pasta</h4>
-          <p class="download"><a class="btn btn-default" href="pdfs/lista_de_colorantes_en_pasta.pdf" role="button">Descargar Carta de Colores</a></p>
+          <p class="download"><a class="btn btn-warning" href="pdfs/lista_de_colorantes_en_pasta.pdf" role="button">Descargar Carta de Colores</a></p>
         </div>
         <div class="col-lg-3 letter-color">
           <img class="img-circle" data-src="holder.js/140x140" alt="140x140" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNDAiIGhlaWdodD0iMTQwIj48cmVjdCB3aWR0aD0iMTQwIiBoZWlnaHQ9IjE0MCIgZmlsbD0iI2VlZSI+PC9yZWN0Pjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjcwIiB5PSI3MCIgc3R5bGU9ImZpbGw6I2FhYTtmb250LXdlaWdodDpib2xkO2ZvbnQtc2l6ZToxMnB4O2ZvbnQtZmFtaWx5OkFyaWFsLEhlbHZldGljYSxzYW5zLXNlcmlmO2RvbWluYW50LWJhc2VsaW5lOmNlbnRyYWwiPjE0MHgxNDA8L3RleHQ+PC9zdmc+" style="width: 140px; height: 140px;">
           <h4>Polvos para Pétalos</h4>
-          <p class="download"><a class="btn btn-default" href="pdfs/lista_de_colorantes_para_aerografos.pdf" role="button">Descargar Carta de Colores</a></p>
+          <p class="download"><a class="btn btn-warning" href="pdfs/lista_de_colorantes_para_aerografos.pdf" role="button">Descargar Carta de Colores</a></p>
         </div>
         <div class="col-lg-3 letter-color">
           <img class="img-circle" data-src="holder.js/140x140" alt="140x140" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNDAiIGhlaWdodD0iMTQwIj48cmVjdCB3aWR0aD0iMTQwIiBoZWlnaHQ9IjE0MCIgZmlsbD0iI2VlZSI+PC9yZWN0Pjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjcwIiB5PSI3MCIgc3R5bGU9ImZpbGw6I2FhYTtmb250LXdlaWdodDpib2xkO2ZvbnQtc2l6ZToxMnB4O2ZvbnQtZmFtaWx5OkFyaWFsLEhlbHZldGljYSxzYW5zLXNlcmlmO2RvbWluYW50LWJhc2VsaW5lOmNlbnRyYWwiPjE0MHgxNDA8L3RleHQ+PC9zdmc+" style="width: 140px; height: 140px;">
           <h4>Polvos para Pétalos Fluor</h4>
-          <p class="download"><a class="btn btn-default" href="pdfs/lista_de_colores_plovo_petalos.pdf" role="button">Descargar Carta de Colores</a></p>
+          <p class="download"><a class="btn btn-warning" href="pdfs/lista_de_colores_plovo_petalos.pdf" role="button">Descargar Carta de Colores</a></p>
         </div>
         <div class="col-lg-3 letter-color">
           <img class="img-circle" data-src="holder.js/140x140" alt="140x140" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNDAiIGhlaWdodD0iMTQwIj48cmVjdCB3aWR0aD0iMTQwIiBoZWlnaHQ9IjE0MCIgZmlsbD0iI2VlZSI+PC9yZWN0Pjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjcwIiB5PSI3MCIgc3R5bGU9ImZpbGw6I2FhYTtmb250LXdlaWdodDpib2xkO2ZvbnQtc2l6ZToxMnB4O2ZvbnQtZmFtaWx5OkFyaWFsLEhlbHZldGljYSxzYW5zLXNlcmlmO2RvbWluYW50LWJhc2VsaW5lOmNlbnRyYWwiPjE0MHgxNDA8L3RleHQ+PC9zdmc+" style="width: 140px; height: 140px;">
           <h4>Colorante para Aerógrafo</h4>
-          <p class="download"><a class="btn btn-default" href="pdfs/lista_de_colores_plovo_petalos_fluor.pdf" role="button">Descargar Carta de Colores</a></p>
+          <p class="download"><a class="btn btn-warning" href="pdfs/lista_de_colores_plovo_petalos_fluor.pdf" role="button">Descargar Carta de Colores</a></p>
         </div>
       </div>
       <hr class="featurette-divider">
+      <div class="events-tittle">
+        <h3 class="letter-title">Eventos</h3>
+      </div>
       <div class="row featurette">
         <div class="col-md-7">
-          <h2 class="featurette-heading">First featurette heading. <span class="text-muted">It'll blow your mind.</span></h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+          <h2 class="featurette-heading">Evento Mis Tortas 2014 Marcela Capó.</h2>
+          <p class="lead">Sábado 17 de 14:00 a 21:00hs y Domingo 18 de 14:00 a 20:00h - CÍRCULO OFICIALES DE MAR Sarmiento 1867 Buenos Aires - Argentina </p>
         </div>
         <div class="col-md-5">
           <img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="500x500" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MDAiIGhlaWdodD0iNTAwIj48cmVjdCB3aWR0aD0iNTAwIiBoZWlnaHQ9IjUwMCIgZmlsbD0iI2VlZSI+PC9yZWN0Pjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjI1MCIgeT0iMjUwIiBzdHlsZT0iZmlsbDojYWFhO2ZvbnQtd2VpZ2h0OmJvbGQ7Zm9udC1zaXplOjMxcHg7Zm9udC1mYW1pbHk6QXJpYWwsSGVsdmV0aWNhLHNhbnMtc2VyaWY7ZG9taW5hbnQtYmFzZWxpbmU6Y2VudHJhbCI+NTAweDUwMDwvdGV4dD48L3N2Zz4=">
@@ -124,11 +104,9 @@
         </div>
       </div>
       <hr class="featurette-divider">
-      <footer>
-        <p class="pull-right"><a href="#">Back to top</a></p>
-        <p align="center">Todos los derechos reservados Fleibor S.R.L ®</p>
-        <p align="center">Dir.: 30 de Agosto 162 – Tablada Provincia de Buenos aires - 1766 - Provincia de Buenos Aires - Tel: 4652-8035 (lineas rotativas)</p>
-      </footer>
+      <?php
+        include("footer.php");
+      ?>
     </div>
 	</body>
 </html>
