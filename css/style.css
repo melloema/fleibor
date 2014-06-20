@@ -71,3 +71,8 @@
 .carousel .item {
 	max-height: 500px;
 }
+
+.wrap-form {
+	margin:0 auto 0 auto; 
+	width:30%;
+}
