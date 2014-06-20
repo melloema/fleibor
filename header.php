@@ -17,7 +17,7 @@
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
             <li <?php if($path[2] == "index.php") echo 'class="active"'; ?>><a href="#">Home</a></li>
-            <li><a href="#about">Productos</a></li>
+            <li><a href="productos.php">Productos</a></li>
             <li><a href="#events">Eventos</a></li>
             <li><a href="#company">Empresa</a></li>
             <li><a href="#contact">Contactenos</a></li>
