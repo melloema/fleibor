@@ -13,7 +13,6 @@
     <style id="holderjs-style" type="text/css"></style>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
-    <script src="js/docs.min.js"></script>
 	</head>
 	<body>
   	<?php
@@ -26,19 +25,19 @@
           <form action="form-contact.php" class="wrap-form" id="contact-form" role="form" method="post">
             <div class="form-group">
               <label for="name" class="control-label">Nombre</label>
-              <input type="text" class="form-control" id="name" placeholder="Nombre">
+              <input type="text" class="form-control" id="name" name="name" placeholder="Nombre">
             </div>
             <div class="form-group">
               <label for="mail">Email address</label>
-              <input type="email" class="form-control" id="mail" placeholder="email">
+              <input type="email" class="form-control" id="mail" name="email" placeholder="email">
             </div>
             <div class="form-group">
               <label for="tel">Telefono</label>
-                <input type="phone" class="form-control" id="tel" placeholder="Telefono">
+                <input type="tel" class="form-control" id="tel" name="phone" placeholder="Telefono">
             </div>
             <div class="form-group">
               <label for="query">Consulta</label>
-              <textarea class="form-control" rows="5"></textarea>
+              <textarea class="form-control" name="query" rows="5"></textarea>
             </div>
             <div class="form-group">
               <button type="submit" class="btn btn-warning pull-right">Enviar</button>
