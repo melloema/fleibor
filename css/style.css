@@ -76,3 +76,11 @@
 	margin:0 auto 0 auto; 
 	width:30%;
 }
+
+.events-tittle {
+	text-align: center;
+}
+
+#events {
+	cursor: pointer;
+}

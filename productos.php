@@ -12,9 +12,8 @@
     <title>Productos</title>
     <style id="holderjs-style" type="text/css"></style>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-	<script src="js/general.js"></script>
     <script src="js/bootstrap.min.js"></script>
-    <script src="js/docs.min.js"></script>
+	  <script src="js/general.js"></script>
 	</head>
 <div class="navbar-wrapper">
 	<div class="container">

@@ -13,7 +13,7 @@
     <style id="holderjs-style" type="text/css"></style>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
-    <script src="js/docs.min.js"></script>
+    <script src="js/general.js"></script>
 	</head>
 	<body>
   	<?php
@@ -45,7 +45,7 @@
       </div>
       <hr class="featurette-divider">
       <div class="events-tittle">
-        <h3 class="letter-title">Eventos</h3>
+        <h3 class="letter-title" id="events">Eventos</h3>
       </div>
       <div class="row featurette">
         <div class="col-md-7">
