@@ -12,7 +12,10 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
         	</button>
-          <a class="navbar-brand" href="#">Fleibor</a>
+          <a class="navbar-brand" <?php if($path[2] == "index.php") echo 'href="#"'; else echo 'href="index.php"';?>>Fleibor</a>
+          <div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/"></div>
+          <div class="addthis_sharing_toolbox addthis-hidden">
+          </div>
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
@@ -22,6 +25,8 @@
             <li <?php if($path[2] == "company.php") echo 'class="active"'; ?>><a <?php if($path[2] == "company.php") echo 'href="#"'; else echo 'href="company.php"'?>>Empresa</a></li>
             <li <?php if($path[2] == "contact.php") echo 'class="active"'; ?>><a <?php if($path[2] == "contact.php") echo 'href="#"'; else echo 'href="contact.php"'; ?>>Contactenos</a></li>
           </ul>
+          <div class="addthis_sharing_toolbox addthis pull-right">
+          </div>
         </div>
       </div>
     </div>
