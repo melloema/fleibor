@@ -14,11 +14,6 @@ $(function(){
 	$("#li-recetas").toggle();
 	$("#bt-recetas").click(function(){$("#li-recetas").toggle()});
 
-	var addthis_share = {
-	   url: "http://www.fleibor.com.ar",
-	   title: "Fleibor WebSite"
-	};
-
 	function events() {
 		$("#events").click(function(){
 			$(location).attr('href', 'events.php');
