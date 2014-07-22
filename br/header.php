@@ -17,14 +17,14 @@
 				if(isset($_POST['enviar'])){
 					$op=$_POST['idioma'];
 					if($op=="1"){
-						header("location:index.php");
+						header("location:../index.php");
 					}
 					else{
 						if($op=="2"){
-							header("location:br/index.php");
+							header("location:../br/index.php");
 						}
 						else{
-							header("location:index.php");
+							header("location:../index.php");
 						}
 					}
 				}
