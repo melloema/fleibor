@@ -11,7 +11,7 @@
 				<option value="1">Espa&ntilde;ol</option>
 				<option value="2">Portugues</option>
 				</select>
-				<input type="submit" name="enviar" value="escolher"/>
+				<input type="submit" class="" name="enviar" value="escolher"/>
 				</form>
 				<?php
 				if(isset($_POST['enviar'])){
