@@ -22,19 +22,20 @@
 	    ?>
 	    <div class="container company">
 			<div class="events-tittle">
-	        	<h3 class="letter-title">Empresa</h3>
+	        	<h3 class="letter-title">Companhia</h3>
 	      	</div>
 	      	<div class="content company row">
 	      		<div class="col-md-offset-2 col-md-7">
-	      			<p><span class="strong">Laboratorio Fleibor srl.</span> nace en el mercado argentino en Agosto del año <span class="strong">1984</span> dedicado a la elaboración de esencias y colorantes. </p>
-	      			<p>Desde entonces trabajamos para dar la personalidad que su producto merece, a través de aromas y colores originales. Nos apasiona nuestra tarea diaria, buscando en forma cotidiana nuevos productos que perfeccionen su trabajo. Llegamos al mercado a través de <span class="strong">dos líneas de productos: artesanías y alimenticios.</span></p>
+	      			<p><span class="strong">Laboratorio Fleibor srl.</span> nasceu no mercado argentino em Agosto de <span class="strong">1984</span> dedicado à elaboração de essências e corantes. </p>
+	      			<p>Desde então trabalhamos para a identidade que seu produto merece, através de aromas e cores originais. </p>
+					
 	      		</div>
       			<img src="img/foto7.jpg" alt="" class="col-md-2"/>
       			<img src="img/foto9.jpg" alt="" class="col-md-offset-2 col-md-2"/>
 	      		<div class="col-md-7">
-	      			<p>Asimismo apoyamos todos los eventos que profesionales gastronómicos y artistas del sector desarrollan en nuestro ámbito, permitiéndonos tomar contacto con el usuario directo del cual rescatamos sus necesidades, y dirigimos nuestro esfuerzo hacia productos innovadores.</p>
-	      			<p>Estamos seguros del empeño que ponemos en nuestra labor, y también por que no decirlo el alma en cada elaboración. Trabajamos para estimular los sentidos del olfato y la vista, pero claro, en este punto nos alejamos de la ciencia porque el resultado que se obtiene utilizando nuestros productos va mas allá de lo esperado cuando definimos el perfume de la cocina de mamá o coloreamos la torta de su bebe.</p>
-	      			<p>Estamos junto a usted en la tarea de todos los días, en los rutinarios y en los festivos, cuando usted pone el arte y nosotros tan solo esencias y colorantes para que la vida se vea y sepa maravillosa.</p>
+				<br/>
+	      			<p>Trabalhamos para estimular os sentidos do olfato e da visão, mas neste ponto nos afastamos da ciência porque o resultado obtido com a utilização de nossos produtos vai além do esperado quando definimos o cheiro da cozinha de nossa mãe ou tingimos o bolo de seu bebê. </p>
+					<p>Nossos produtos são fornecidos em <span class="strong"> duas linhas:produtos: alimentícios e produtos para artesanato.</span></p>
 	      		</div>
 	      	</div>
       		<hr class="featurette-divider">

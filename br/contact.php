@@ -25,7 +25,7 @@
     ?>
     <div class="container contact">
         <div class="container contactform row">
-          <h3 class="letter-title text-center">Contactenos</h3>
+          <h3 class="letter-title text-center">Contato</h3>
           <hr class="featurette-divider">
           <div class="content description col-md-6">
             <h3><img src="img/arg_ch.jpg" alt="ARGENTINA" /> Argentina (Fábrica)</h3>
@@ -38,7 +38,7 @@
           </div>
           <form action="form-contact.php" class="col-md-5" id="contact-form" role="form" method="post">
             <div class="form-group">
-              <label for="name" class="control-label">Nombre</label>
+              <label for="name" class="control-label">Nome</label>
               <input type="text" class="form-control" id="name" name="name" placeholder="Nombre">
             </div>
             <div class="form-group">
@@ -46,7 +46,7 @@
               <input type="email" class="form-control" id="mail" name="email" placeholder="email">
             </div>
             <div class="form-group">
-              <label for="tel">Telefono</label>
+              <label for="tel">Telefone</label>
                 <input type="tel" class="form-control" id="tel" name="phone" placeholder="Telefono">
             </div>
             <div class="form-group">

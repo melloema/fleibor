@@ -11,7 +11,7 @@
 				<option value="1">Espa&ntilde;ol</option>
 				<option value="2">Portugues</option>
 				</select>
-				<input type="submit" name="enviar" value="elegir"/>
+				<input type="submit" name="enviar" value="escolher"/>
 				</form>
 				<?php
 				if(isset($_POST['enviar'])){
@@ -45,10 +45,10 @@
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
             <li <?php if($path[2] == "index.php") echo 'class="active"'; ?>><a <?php if($path[2] == "index.php") echo 'href="#"'; else echo 'href="index.php"';?>>Home</a></li>
-            <li <?php if($path[2] == "productos.php") echo 'class="active"'; ?>><a <?php if($path[2] == "productos.php") echo 'href="#"'; else echo 'href="productos.php"'?>>Productos</a></li>
+            <li <?php if($path[2] == "productos.php") echo 'class="active"'; ?>><a <?php if($path[2] == "productos.php") echo 'href="#"'; else echo 'href="productos.php"'?>>Produtos</a></li>
             <li <?php if($path[2] == "events.php") echo 'class="active"'; ?>><a <?php if($path[2] == "events.php") echo 'href="#"'; else echo 'href="events.php"'?>>Eventos</a></li>
-            <li <?php if($path[2] == "company.php") echo 'class="active"'; ?>><a <?php if($path[2] == "company.php") echo 'href="#"'; else echo 'href="company.php"'?>>Empresa</a></li>
-            <li <?php if($path[2] == "contact.php") echo 'class="active"'; ?>><a <?php if($path[2] == "contact.php") echo 'href="#"'; else echo 'href="contact.php"'; ?>>Contactenos</a></li>
+            <li <?php if($path[2] == "company.php") echo 'class="active"'; ?>><a <?php if($path[2] == "company.php") echo 'href="#"'; else echo 'href="company.php"'?>>Companhia</a></li>
+            <li <?php if($path[2] == "contact.php") echo 'class="active"'; ?>><a <?php if($path[2] == "contact.php") echo 'href="#"'; else echo 'href="contact.php"'; ?>>Contato</a></li>
           </ul>
           <div class="addthis_sharing_toolbox addthis pull-right">
           </div>
@@ -69,8 +69,8 @@
       <div class="container">
         <div class="carousel-caption">
           <h1>Laboratorio Fleibor srl.</h1>
-          <p>Nace en el mercado argentino en Agosto del año 1984 dedicado a la elaboración de esencias y colorantes. </p>
-          <p><a class="btn btn-lg btn-primary" href="#" role="button">Inicio</a></p>
+          <p>nasceu no mercado argentino em Agosto de 1984 dedicado à elaboração de essências e corantes.</p>
+          <p><a class="btn btn-lg btn-primary" href="#" role="button">Home</a></p>
         </div>
       </div>
     </div>
