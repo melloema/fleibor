@@ -27,8 +27,7 @@
 	      	<div class="content company row">
 	      		<div class="col-md-offset-2 col-md-7">
 	      			<p><span class="strong">Laboratorio Fleibor srl.</span> nasceu no mercado argentino em Agosto de <span class="strong">1984</span> dedicado à elaboração de essências e corantes. </p>
-	      			<p>Desde então trabalhamos para a identidade que seu produto merece, através de aromas e cores originais. </p>
-					
+	      			<p>Desde então trabalhamos para a identidade que seu produto merece, através de aromas e cores originais. </p>					
 	      		</div>
       			<img src="img/foto7.jpg" alt="" class="col-md-2"/>
       			<img src="img/foto9.jpg" alt="" class="col-md-offset-2 col-md-2"/>
