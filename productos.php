@@ -70,51 +70,50 @@
     </div>
     <div class="container letter-cont">
 	
-      <h3 class="letter-title">Productos</h3>
+      <a name="title"><h3 class="letter-title">Productos</h3></a>
       <div class="row">
         <div class="col-lg-4 letter-color">
           <img class="img-circle" data-src="holder.js/140x140" alt="140x140" src="img/alimenticios.jpg" style="width: 140px; height: 140px;">
           <h4>Alimenticios</h4>
-          <p class="download"><button id="bt-alimenticios" class="btn btn-default" type="button" >View details »</button></p>
+          <p class="download"><button id="bt-alimenticios" class="btn btn-default" type="button" >Ver »</button></p>
 		  <div id="li-alimenticios" class="list-group">
-		  <a href="#" class="list-group-item">Golosinas</a>
-		  <a href="#" class="list-group-item">Bebidas sin alcohol</a>
-          <a href="#" class="list-group-item">Bebidas con alcohol</a>
-          <a href="#" class="list-group-item">Helados</a>
-          <a href="#" class="list-group-item">Reposter&iacute;a hogare&ntilde;a</a>          
-		  <a href="#" class="list-group-item">Panader&iacute;a y confiter&iacute;a</a>
-		  <a href="#" class="list-group-item">Chocolates</a>
-		  <a href="#" class="list-group-item">L&aacute;cteos</a>
+		  <a href="golosina.php#title" id="bt-golosinas" class="list-group-item">Golosinas</button>
+		  <a href="bebidassa.php#title" id="bt-bebidassa" class="list-group-item">Bebidas sin alcohol</a>
+          <a href="bebidasca.php#title" id="bt-bebidasca" class="list-group-item">Bebidas con alcohol</a>
+          <a href="helados.php#title" id="bt-helados" class="list-group-item">Helados</a>
+          <a href="reposteria.php#title" id="bt-reposteria" class="list-group-item">Reposter&iacute;a hogare&ntilde;a</a>          
+		  <a href="panaderia.php#title" id="bt-panaderia" class="list-group-item">Panader&iacute;a y confiter&iacute;a</a>
+		  <a href="chocolates.php#title" id="bt-chocolates" class="list-group-item">Chocolates</a>
+		  <a href="lacteos.php#title" id="bt-lacteos" class="list-group-item">L&aacute;cteos</a>
           </div>
         </div>
         <div class="col-lg-4 letter-color">
           <img class="img-circle" data-src="holder.js/140x140" alt="140x140" src="img/artesanias.jpg" style="width: 140px; height: 140px;">
           <h4>Artesan&iacute;as</h4>
-          <p class="download"><button id="bt-artesanias" class="btn btn-default" type="button" >View details »</button></p>
+          <p class="download"><button id="bt-artesanias" class="btn btn-default" type="button" >Ver »</button></p>
 		  <div id="li-artesanias" class="list-group">
-		  <a href="#" class="list-group-item">Art&iacute;culos para porcelana en fr&iacute;o</a>
-		  <a href="#" class="list-group-item">Art&iacute;culos para jabones artesanales</a>
-          <a href="#" class="list-group-item">Art&iacute;culos para velas artesanales</a>
-          <a href="#" class="list-group-item">Especialidades</a>
+		  <a href="porcelana.php#title" id="bt-porcelana" class="list-group-item">Art&iacute;culos para porcelana en fr&iacute;o</a>
+		  <a href="jabones.php#title" id="bt-jabones" class="list-group-item">Art&iacute;culos para jabones artesanales</a>
+          <a href="velas.php#title" id="bt-velas" class="list-group-item">Art&iacute;culos para velas artesanales</a>
+          <a href="especialidades.php#title" id="bt-especialidades" class="list-group-item">Especialidades</a>
           </div>
         </div>
         <div class="col-lg-4 letter-color">
           <img class="img-circle" data-src="holder.js/140x140" alt="140x140" src="img/recetas.jpg" style="width: 140px; height: 140px;">
           <h4>Mis Recetas</h4>
-          <p class="download"><button id="bt-recetas" class="btn btn-default" type="button" >View details »</button></p>
+          <p class="download"><button id="bt-recetas" class="btn btn-default" type="button" >Ver »</button></p>
 		  <div id="li-recetas" class="list-group">
-		  <a href="#" class="list-group-item">Listado de Recetas</a>
+		  <a href="recetas.php#title" id="bt-recetas" class="list-group-item">Listado de Recetas</a>
           </div>
-		  
-
-
-
-
-
         </div>
 
+
       </div>
-      <hr class="featurette-divider">
+	  <hr class="featurette-divider">
+
+
+
+
 
       <?php
         include("footer.php");
