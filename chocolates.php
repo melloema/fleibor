@@ -131,13 +131,13 @@
 	      		<div class="">
 				<br/>
 					<p>
-					<li><span class="strong">
-					COLORANTE EN PASTA </span>Ponemos a su alcance la línea más extensa del mercado de total 
+					<li><strong>
+					COLORANTE EN PASTA </strong>Ponemos a su alcance la línea más extensa del mercado de total 
 					definición. Encuentra su aplicación en el coloreado de cualquier masa para modelado 
 					(logrando tonos intensos y definidos), a saber: pasta de goma, masa de porcelana en frío, 
 					papel machet, etc. Al estar elaborados con colorantes alimenticios se convierte en un producto 
 					no toxico y de máxima concentración en el poder de teñido.
-					<span class="strong">Lanzamiento de nuevos colores:</span> <a href="#">Ver Colores</a>
+					<span class="text-red"><strong>Lanzamiento de nuevos colores:</strong> </span><a href="#">Ver Colores</a>
 					</li>
 					</p>
 					<br/>

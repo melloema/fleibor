@@ -51,6 +51,11 @@
 	text-align: center;
 }
 
+.text-red {
+	color:FF0000;
+}
+
+
 .letter-title {
 	font-size: 50px;
 	margin-bottom: 30px;
