@@ -137,7 +137,7 @@
 					(logrando tonos intensos y definidos), a saber: pasta de goma, masa de porcelana en frío, 
 					papel machet, etc. Al estar elaborados con colorantes alimenticios se convierte en un producto 
 					no toxico y de máxima concentración en el poder de teñido.
-					<span class="text-red"><strong>Lanzamiento de nuevos colores:</strong> </span><a href="#">Ver Colores</a>
+					<span class="text-red"><strong>Lanzamiento de nuevos colores:</strong> </span><a target="_blank" href="pdfs/lista_de_colorantes_en_pasta.pdf">Ver Colores</a>
 					</li>
 					</p>
 					<br/>

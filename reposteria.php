@@ -173,7 +173,7 @@
 					el coloreado de cualquier masa para modelado (logrando tonos intensos y 
 					definidos), a saber: pasta de goma, masa de porcelana en frío, papel machet, 
 					etc. Al estar elaborados con colorantes alimenticios se convierte en un producto 
-					no toxico y de máxima concentración en el poder de teñido. <span class="text-red"><strong>Lanzamiento de nuevos colores:</strong><a href="#"> Ver Colores</a> </span></li>
+					no toxico y de máxima concentración en el poder de teñido. <span class="text-red"><strong>Lanzamiento de nuevos colores:</strong><a target="_blank" href="pdfs/lista_de_colorantes_en_pasta.pdf"> Ver Colores</a> </span></li>
 					</p>
 					<br/>
 					<p>
