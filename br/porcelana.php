@@ -48,7 +48,7 @@
 					<p><strong>Tons: Branco, Celeste, Cobre, Dourado, Vermelho, Verde e Violeta.</strong></p>
 					<br/>
 					<p><strong><span class="text-red">NOVIDADE!</span> PERFUME PARA BISCUIT </strong> Aplicar uma ou duas gotinhas do 
-					produto na figura ou no modelo terminado para atingir maior realismo. <a href="#">Ver Lista</a></p>
+					produto na figura ou no modelo terminado para atingir maior realismo. <a href="#esencias">Ver Lista</a></p>
 					<br/>
 					<p><strong><span class="text-red">NOVIDADE! </span> CORANTES PARA AERÓGRAFO </strong> Agora você pode pintar seu 
 					trabalho em açúcar ou biscuit com a nova linha de corantes para aerógrafos Fleibor, as superfícies ficarão aveludadas com este produto.</p>
@@ -60,7 +60,7 @@
 					massa para modelado (atingindo tons intensos e definidos),exemplos de massas: massa elástica 
 					(massa de goma), massa de biscuit, massa para modelar, papel machê, etc. Sendo elaborados com 
 					corantes alimentícios se transformam em produtos não tóxicos e de máxima concentração.  
-					<span class="text-red">Lançamento de novas cores: <a href="#">Ver Colores</a></span></p>
+					<span class="text-red">Lançamento de novas cores: <a target="_blank" href="img/coloresbr.jpg">Ver Colores</a></span></p>
 					<br/>
 					<p><strong>PORCE CLEAR</strong> branqueia a massa de biscuit e aumenta sua 
 					transparência. Agregar 2 gotas à massa de biscuit para cada 100g e amassar.</p>
@@ -81,10 +81,64 @@
 					<p><strong>PÓ PARA PÉTALAS</strong> para obter tons esfumaçados aplicar o pó 
 					seco com pincel seco ou com os dedos. Para obter tons plenos, aplicar com um 
 					pincel molhado em álcool, atingindo uma secagem instantânea. Produto não comestível e 
-					não tóxico.<a href="#"> Ver lista de pó para pétalas</a></p>
+					não tóxico.<a target="_blank" href="img/polvos_petalosbr.jpg"> Ver lista de pó para pétalas</a></p>
 					<br/>
 	      		</div>
 	      	</div>
+			<div class="panel panel-primary ">
+			<a name="esencias"></a><div class="panel-heading">Lista de Fragancias para Porcelana en Fr&iacute;o </div>
+				<table class="table"> 
+
+				<tbody>
+				<tr>
+				<td><strong>ESSÊNCIA </strong> FLOR DE LARANJEIRA</td>
+				<td><strong>ESSÊNCIA </strong> PRINCESA </td>
+				</tr>
+				<tr class="panel-footer">
+				<td ><strong>ESSÊNCIA </strong> CAMÉLIA</td>
+				<td><strong>ESSÊNCIA </strong> PÊSSEGO </td>
+				</tr>
+				<tr>
+				<td><strong>ESSÊNCIA </strong> CHOCOLATE </td>
+				<td><strong>ESSÊNCIA </strong> GARDÊNIA</td>
+				</tr>
+				<tr class="panel-footer">
+				<td><strong>ESSÊNCIA </strong> COLÔNIA BEBÊ</td>
+				<td><strong>ESSÊNCIA </strong> LILÁS</td>
+				</tr>
+				<tr>
+				<td><strong>ESSÊNCIA </strong> FLORAL</td>
+				<td><strong>ESSÊNCIA </strong> MAGNÓLIA </td>
+				</tr>
+				<tr class="panel-footer">
+				<td><strong>ESSÊNCIA </strong> MORANGO</td>
+				<td><strong>ESSÊNCIA </strong> NARDO </td>
+				</tr>
+				<tr>
+				<td><strong>ESSÊNCIA  </strong> JAZMIN</td>
+				<td><strong>ESSÊNCIA </strong> ORQUÍDEA </td>
+				</tr>
+				<tr class="panel-footer">
+				<td><strong>ESSÊNCIA </strong> LAVANDA</td>
+				<td><strong>ESSÊNCIA </strong> ROSA </td>
+				</tr>
+				<tr>
+				<td><strong>ESSÊNCIA  </strong> LILIUM</td>
+				<td><strong>ESSÊNCIA </strong> BAUNILHA</td>
+				</tr>
+				<tr class="panel-footer">
+				<td><strong>ESSÊNCIA </strong> MARGARIDA</td>
+				<td><strong>ESSÊNCIA </strong> VIOLETAS </td>
+				</tr>
+				<tr>
+				<td><strong>ESSÊNCIA  </strong> MIMOSA </td>
+				<td></td>
+				</tr>
+	
+				</tbody>
+				</table>
+
+			</div>
 			<br>
 
 
