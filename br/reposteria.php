@@ -22,104 +22,116 @@
 	    ?>
 	    <div class="container company col-md-offset-2 col-md-8">
 			<div class="events-tittle">
-	        	<a name="title"><h3 class="letter-title">Reposter&iacute;a Hogare&ntilde;a</h3></a>
+	        	<a name="title"><h3 class="letter-title">Confeitaria caseira</h3></a>
 	      	</div>
 	      	<div class="content company row">
 	      		<div class="">
-	      			<p>En el lugar donde se elaboran los postres más ricos, en los que el ingrediente mas 
-					importante es el amor, <span class="strong">laboratorio fleibor</span> ofrece los siguientes aditivos que 
-					realzan el esfuerzo y la calidad de las preparaciones que surjan del seno de su cocina</p>
+	      			<p>No lugar onde são elaborados os doces e as sobremesas mais gostosos, aqueles onde o ingrediente mais importante é o amor, <span class="strong">laboratorio fleibor</span> oferece os seguintes aditivos que realçam o esforço e a qualidade das preparações que saírem de nossa própria cozinha.</p>
 	      		</div>
 	      	</div>
 			<br>
 			<div class="panel panel-primary ">
-			<div class="panel-heading">Listado de Escencias</div>
+			<div class="panel-heading">Lista de Essências</div>
 				<table class="table"> 
 
 				<tbody>
 				<tr>
-				<td><strong>ESENCIA</strong> ALMENDRAS AMARGAS</td>
-				<td><strong>ESENCIA</strong> CEREZA </td>
+				<td><strong>ESSÊNCIAS</strong> AMÊNDOAS</td>
+				<td><strong>ESSÊNCIAS</strong> PRESUNTO </td>
 				</tr>
 				<tr class="panel-footer">
-				<td ><strong>ESENCIA</strong> AGUA DE AZAHAR </td>
-				<td><strong>ESENCIA</strong> JAZMIN</td>
+				<td ><strong>ESSÊNCIAS</strong> FLOR DE LARANJEIRA </td>
+				<td><strong>ESSÊNCIAS</strong> JAZMIN</td>
 				</tr>
 				<tr>
-				<td><strong>ESENCIA</strong> AGUA DE ROSAS</td>
-				<td><strong>ESENCIA</strong> KIRSCH</td>
+				<td><strong>ESSÊNCIAS</strong> ÁGUA DE ROSAS</td>
+				<td><strong>ESSÊNCIAS</strong> KIRSCH</td>
 				</tr>
 				<tr class="panel-footer">
-				<td><strong>ESENCIA</strong> ANANA</td>
-				<td><strong>ESENCIA</strong> LIMA-LIMON</td>
+				<td><strong>ESSÊNCIAS</strong> ABACAXI</td>
+				<td><strong>ESSÊNCIAS</strong> LIMA-LIMÃO</td>
 				</tr>
 				<tr>
-				<td><strong>ESENCIA</strong> ANIS</td>
-				<td><strong>ESENCIA</strong> LIMON</td>
+				<td><strong>ESSÊNCIAS</strong> ANIS</td>
+				<td><strong>ESSÊNCIAS</strong> LIMÃO</td>
 				</tr>
 				<tr class="panel-footer">
-				<td><strong>ESENCIA</strong> AROMA M (MANTECA)</td>
-				<td><strong>ESENCIA</strong> MANZANA</td>
+				<td><strong>ESSÊNCIAS</strong> MANTEIGA</td>
+				<td><strong>ESSÊNCIAS</strong> MAÇÃ</td>
 				</tr>
 				<tr>
-				<td><strong>ESENCIA </strong> AVELLANA TOSTADA</td>
-				<td><strong>ESENCIA </strong> MANDARINA</td>
+				<td><strong>ESSÊNCIAS </strong> AVELÃ</td>
+				<td><strong>ESSÊNCIAS </strong> TANGERINA</td>
 				</tr>
 				<tr class="panel-footer">
-				<td><strong>ESENCIA</strong> BANANA </td>
-				<td><strong>ESENCIA</strong> MARRASCHINO</td>
+				<td><strong>ESSÊNCIAS</strong> BANANA </td>
+				<td><strong>ESSÊNCIAS</strong> MARRASQUINO</td>
 				</tr>
 				<tr>
-				<td><strong>ESENCIA </strong> BUDIN</td>
-				<td><strong>ESENCIA </strong> MENTA</td>
+				<td><strong>ESSÊNCIAS </strong> BOLO INGLÊS</td>
+				<td><strong>ESSÊNCIAS </strong> MENTA</td>
 				</tr>
 				<tr class="panel-footer">
-				<td><strong>ESENCIA</strong> CACAO</td>
-				<td><strong>ESENCIA</strong> MIEL</td>
+				<td><strong>ESSÊNCIAS</strong> CACAU</td>
+				<td><strong>ESSÊNCIAS</strong> MEL</td>
 				</tr>
 				<tr>
-				<td><strong>ESENCIA </strong> CAFE</td>
-				<td><strong>ESENCIA </strong> NUEZ</td>
+				<td><strong>ESSÊNCIAS </strong> CAFE</td>
+				<td><strong>ESSÊNCIAS </strong> NOZ</td>
 				</tr>
 				<tr class="panel-footer">
-				<td><strong>ESENCIA</strong> CANELA </td>
-				<td><strong>ESENCIA</strong> NARANJA</td>
+				<td><strong>ESSÊNCIAS</strong> CANELA </td>
+				<td><strong>ESSÊNCIAS</strong> LARANJA</td>
 				</tr>
 				<tr>
-				<td><strong>ESENCIA </strong> CHANTILLY</td>
-				<td><strong>ESENCIA </strong> PAN DULCE</td>
+				<td><strong>ESSÊNCIAS </strong> CEREJA</td>
+				<td><strong>ESSÊNCIAS </strong> PANETTONE</td>
 				</tr>
 				<tr class="panel-footer">
-				<td><strong>ESENCIA</strong> CHOCOLATE</td>
-				<td><strong>ESENCIA</strong> RHUM</td>
+				<td><strong>ESSÊNCIAS</strong> CHANTILLY</td>
+				<td><strong>ESSÊNCIAS</strong> PÄO DE DEUS</td>
 				</tr>
 				<tr>
-				<td><strong>ESENCIA </strong> CHOCOLATE BLANCO</td>
-				<td><strong>ESENCIA </strong> POMELO</td>
+				<td><strong>ESSÊNCIAS </strong> CHOCOLATE</td>
+				<td><strong>ESSÊNCIAS </strong> PISTACHE</td>
 				</tr>
 				<tr class="panel-footer">
-				<td><strong>ESENCIA</strong> COCO</td>
-				<td><strong>ESENCIA</strong> QUESO</td>		
+				<td><strong>ESSÊNCIAS</strong> CHOCOLATE BRANCO</td>
+				<td><strong>ESSÊNCIAS</strong> POMELO</td>		
 				</tr>
 				<tr>
-				<td><strong>ESENCIA </strong> COGÑAC</td>
-				<td><strong>ESENCIA </strong> PERA</td>
+				<td><strong>ESSÊNCIAS </strong> COCO</td>
+				<td><strong>ESSÊNCIAS </strong> QUEIJO</td>
 				</tr>
 				<tr class="panel-footer">
-				<td><strong>ESENCIA</strong> DULCE DE LECHE</td>
-				<td><strong>ESENCIA</strong> DAMASCO</td>		
+				<td><strong>ESSÊNCIAS</strong> CONHAQUE</td>
+				<td><strong>ESSÊNCIAS</strong> PERA</td>		
 				</tr>
 				<tr>
-				<td><strong>ESENCIA </strong> FRAMBUESA</td>
-				<td><strong>ESENCIA </strong> TUTI-FRUTTI</td>
+				<td><strong>ESSÊNCIAS </strong> CREME</td>
+				<td><strong>ESSÊNCIAS </strong> RUM</td>
 				</tr>
 			    <tr class="panel-footer">
-				<td><strong>ESENCIA</strong> GUINDA</td>
-				<td><strong>ESENCIA</strong> VAINILLA </td>		
+				<td><strong>ESSÊNCIAS</strong> DAMASCO</td>
+				<td><strong>ESSÊNCIAS</strong> SAMBAYON </td>		
 				</tr>
 				<tr>
-				<td><strong>ESENCIA </strong> HUMO</td>
-				<td><strong>ESENCIA </strong> FRUTILLA</td>
+				<td><strong>ESSÊNCIAS </strong> DOCE DE LEITE</td>
+				<td><strong>ESSÊNCIAS </strong> TORRÃO</td>
+				<tr class="panel-footer">
+				<td><strong>ESSÊNCIAS</strong> FRAMBOESA</td>
+				<td><strong>ESSÊNCIAS</strong> TUTI-FRUTTI </td>		
+				</tr>
+				<tr>
+				<td><strong>ESSÊNCIAS </strong> MORANGO</td>
+				<td><strong>ESSÊNCIAS </strong> TOFFEE</td>
+				</tr>
+				<tr class="panel-footer">
+				<td><strong>ESSÊNCIAS</strong> GINJA</td>
+				<td><strong>ESSÊNCIAS</strong> BAUNILHA </td>		
+				</tr>
+				<tr>
+				<td><strong>ESSÊNCIAS </strong> FUMAÇA</td>
 				</tr>
 				
 				</tbody>
@@ -128,29 +140,32 @@
 			</div>
 			
 			<div class="panel panel-primary ">
-			<div class="panel-heading">Listado de Colorantes L&iacute;quidos</div>
+			<div class="panel-heading">Lista de Corantes L&iacute;quidos</div>
 				<table class="table"> 
 
 				<tbody>
 				<tr>
-				<td><strong>COLORANTE LIQUIDO</strong> AMARILLO</td></tr>
+				<td><strong>CORANTE LÍQUIDO</strong> AMARELO</td></tr>
 				<tr class="panel-footer">
-				<td><strong>COLORANTE LIQUIDO</strong> AZUL</td></tr>			
+				<td><strong>CORANTE LÍQUIDO</strong> AZUL</td></tr>			
 				<tr >
-				<td ><strong>COLORANTE LIQUIDO</strong> CELESTE</td></tr>
+				<td ><strong>CORANTE LÍQUIDO</strong> CELESTE</td></tr>
 				<tr class="panel-footer">
-				<td><strong>COLORANTE LIQUIDO</strong> MARRON</td></tr>
+				<td><strong>CORANTE LÍQUIDO</strong> MARRON</td></tr>
 				
 				<tr>
-				<td><strong>COLORANTE LIQUIDO</strong> NARANJA</td></tr>
+				<td><strong>CORANTE LÍQUIDO</strong> LARANJA</td></tr>
 				<tr class="panel-footer">
-				<td><strong>COLORANTE LIQUIDO</strong> ROJO</td></tr>
+				<td><strong>CORANTE LÍQUIDO</strong> VERMELHO</td></tr>
 
 				<tr >
-				<td><strong>COLORANTE LIQUIDO</strong> ROSA </td></tr>
+				<td><strong>CORANTE LÍQUIDO</strong> ROSA </td></tr>
 				<tr class="panel-footer">
-				<td><strong>COLORANTE LIQUIDO</strong> VERDE</td></tr>
-
+				<td><strong>CORANTE LÍQUIDO</strong> VERDE</td></tr>
+				
+				<tr>
+				<td><strong>CORANTE LÍQUIDO</strong> VIOLETA</td>
+				</tr>
 
 				</tbody>
 				</table>
@@ -158,22 +173,17 @@
 			</div>
 			
 				<div class="content company row">
-				<h2 ><u>M&aacute;s Productos:</u></h2>
+				<h2 ><u>Mais Produtos:</u></h2>
 	      		<div class="">
 				<br/>
 					<p>
-					<li><span class="strong">COLORANTES PARA AERÓGRAFO</span> Ahora puede pintar su trabajo en azúcar o porcelana en frío con la nueva línea de colorantes para aerógrafos Fleibor, las superficies lucirán aterciopeladas con este producto.
-					<span class="strong"><u>Colores</u>: Amarillo, Azul, Azul O, Marrón, Naranja, Negro, Rojo A, Rojo E, Rojo P, Rosa, Verde y Violeta.</span>
-					Encuentre en este producto los cálidos tonos que su artesanía merece.</li>
+					<li><span class="strong">CORANTES PARA AERÓGRAFO</span> Agora você pode pintar seu trabalho feito de açúcar ou buscuit com a nova linha de corantes para aerógrafos Fleibor, as superfícies se tornarão aveludadas com esse produto.
+					<span class="strong"><u>Colores</u>Cores: Amarelo, Azul, Azul O (escuro), Marrom, Laranja, Preto, Vermelho A (escuro), Vermelho E (luminoso), Vermelho P (sangue), Rosa, Verde e Violeta.</span>
+					Encontre neste produto os tons cálidos tons que seu artesanato merece.</li>
 					</p>
 					<br/>
 					<p>
-					<li><span class="strong">COLORANTE EN PASTA</span> Ponemos a su alcance la línea más 
-					extensa del mercado de total definición. Encuentra su aplicación en
-					el coloreado de cualquier masa para modelado (logrando tonos intensos y 
-					definidos), a saber: pasta de goma, masa de porcelana en frío, papel machet, 
-					etc. Al estar elaborados con colorantes alimenticios se convierte en un producto 
-					no toxico y de máxima concentración en el poder de teñido. <span class="text-red"><strong>Lanzamiento de nuevos colores:</strong><a href="#"> Ver Colores</a> </span></li>
+					<li><span class="strong">CORANTE EM PASTA (GEL)</span> Colocamos a sua disposição a maior linha do mercado com cores de total definição. Tem sua própria aplicação no colorido de qualquer massa para modelado (atingindo tons intensos e definidos), exemplos de massas: massa elástica (massa de goma), massa de biscuit, papel machê, massa para modelar etc. Sendo elaborados com corantes alimentícios se transformam em produtos não tóxicos e de máxima concentração.<span class="text-red"><strong>Lançamento de novas cores:</strong><a href="#"> Ver Cores</a> </span></li>
 					</p>
 					<br/>
 					<p>
@@ -181,12 +191,8 @@
 					</p>
 					<br/>
 					<p>
-					<li><span class="strong">COLORANTE EN POLVO</span> Es una novedad dentro de la repostería y reemplaza 
-					al polvo de tiza, teniendo como ventaja que nuestro producto es comestible y 
-					de una excelente calidad. Para lograr colores esfumados, tenues, se debe aplicar 
-					sobre superficies secas con un pincel. Para lograr colores intensos, se debe aplicar 
-					sobre superficies secas con el pincel mojado en alcohol logrando un secado instantáneo.
-					<span class="strong">Colores: amarillo, rojo, rosa, azul, verde, en desarrollo.</span></li>
+					<li><span class="strong">CORANTE EM PÓ</span> É uma novidade dentro da confeitaria substituindo o pó de giz, tem a vantagem de nosso produto ser comestível e de uma excelente qualidade. Para obter cores esfumaçadas, tênues, tem de ser aplicado sobre superfícies secas com um pincel seco. Para obter tons intensos, tem de ser aplicado sobre superfíceis secas mas com o pincel molhado em álcool alcançando uma secagem instantânea.
+					<span class="strong">Cores: amarelo, vermelho, rosa, azul, verde, em desenvolvimento.</span></li>
 					</p>
 					<br/>
 					<p>
@@ -194,10 +200,7 @@
 					</p>
 					<br/>
 					<p>
-					<li><span class="strong">SECUESTRANTE DE HUMEDAD</span> La solución para trabajar con altos índices de 
-					humedad en glasé, coberturas y pastillaje. Se sugiere la aplicación de media 
-					cucharadita de café por cada 6 claras de glasé.
-					Encontrara en cada envase mas de 30 aplicaciones, siendo un producto de altísima concentración.</li>
+					<li><span class="strong">PROTETOR CONTRA UMIDADE</span> Dá a solução para trabalhar com o glacê em alta umidade ambiente. Modo de aplicação: uma colher de café para um glacê de 6 claras.</li>
 					</p>
 					<br/>
 	      		</div>

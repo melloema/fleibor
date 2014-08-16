@@ -121,7 +121,7 @@
 			</div>
 			
 			<div class="panel panel-primary ">
-			<div class="panel-heading">Listado de Corantes L&iacute;quidos</div>
+			<div class="panel-heading">Lista de Corantes L&iacute;quidos</div>
 				<table class="table"> 
 
 				<tbody>

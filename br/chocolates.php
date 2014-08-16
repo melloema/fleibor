@@ -26,100 +26,98 @@
 	      	</div>
 	      	<div class="content company row">
 	      		<div class="">
-	      			<p>Ponemos a su alcance nuestra línea industrial para elaborar productos de alta calidad. 
-					´Tiene la posibilidad de optar entre diferentes concentraciones y productos especiales para alta temperatura.</p>
-					<p>Los productos que ofrecemos relacionado con <strong>chocolates</strong> son los siguientes:</p>
+	      			<p>Colocamos a sua disposição nossa linha industrial para a elaboração de produtos de chocolate de alta qualidade. Você tem a possibilidade de escolher entre diferentes concentrações de essências para alta temperatura.</p>
 	      		</div>
 	      	</div>
 			<br>
 			<div class="panel panel-primary ">
-			<div class="panel-heading">Listado de Escencias</div>
+			<div class="panel-heading">Lista de Essências</div>
 				<table class="table"> 
 
 				<tbody>
 				<tr>
-				<td><strong>ESENCIA</strong> ALMENDRAS AMARGAS</td>
-				<td><strong>ESENCIA</strong> FRAMBUESA</td>
+				<td><strong>ESSÊNCIAS</strong> AMÊNDOAS</td>
+				<td><strong>ESSÊNCIAS</strong> FRAMBOESA</td>
 				</tr>
 				<tr class="panel-footer">
-				<td ><strong>ESENCIA</strong> ANANA</td>
-				<td><strong>ESENCIA</strong> FRUTILLA</td>
+				<td ><strong>ESSÊNCIAS</strong> ABACAXI</td>
+				<td><strong>ESSÊNCIAS</strong> MORANGO</td>
 				</tr>
 				<tr>
-				<td><strong>ESENCIA</strong> ANIS</td>
-				<td><strong>ESENCIA</strong> GIN </td>
+				<td><strong>ESSÊNCIAS</strong> ANIS</td>
+				<td><strong>ESSÊNCIAS</strong> GIM </td>
 				</tr>
 				<tr class="panel-footer">
-				<td><strong>ESENCIA</strong> AROMA M (MANTECA)</td>
-				<td><strong>ESENCIA</strong> GUINDA </td>
+				<td><strong>ESSÊNCIAS</strong> MANTEIGA</td>
+				<td><strong>ESSÊNCIAS</strong> GINJA </td>
 				</tr>
 				<tr>
-				<td><strong>ESENCIA</strong> BANANA</td>
-				<td><strong>ESENCIA</strong> HUMO</td>
+				<td><strong>ESSÊNCIAS</strong> BANANA</td>
+				<td><strong>ESSÊNCIAS</strong> FUMAÇA</td>
 				</tr>
 				<tr class="panel-footer">
-				<td><strong>ESENCIA</strong> CACAO</td>
-				<td><strong>ESENCIA</strong> KIRSCH </td>
+				<td><strong>ESSÊNCIAS</strong> CACAO</td>
+				<td><strong>ESSÊNCIAS</strong> KIRSCH </td>
 				</tr>
 				<tr>
-				<td><strong>ESENCIA </strong> CAFE</td>
-				<td><strong>ESENCIA </strong> LIMON </td>
+				<td><strong>ESSÊNCIAS </strong> CAFE</td>
+				<td><strong>ESSÊNCIAS </strong> LIMÃO </td>
 				</tr>
 				<tr class="panel-footer">
-				<td><strong>ESENCIA</strong> CANELA</td>
-				<td><strong>ESENCIA</strong> MANZANA</td>
+				<td><strong>ESSÊNCIAS</strong> CANELA</td>
+				<td><strong>ESSÊNCIAS</strong> MAÇÃ</td>
 				</tr>
 				<tr>
-				<td><strong>ESENCIA </strong> CARDAMOMO</td>
-				<td><strong>ESENCIA </strong> MANDARINA</td>
+				<td><strong>ESSÊNCIAS </strong> CARDAMOMO</td>
+				<td><strong>ESSÊNCIAS </strong> TANGERINA</td>
 				</tr>
 				<tr class="panel-footer">
-				<td><strong>ESENCIA</strong> CEREZA</td>
-				<td><strong>ESENCIA</strong> MARRASCHINO</td>
+				<td><strong>ESSÊNCIAS</strong> CEREJA</td>
+				<td><strong>ESSÊNCIAS</strong> MARRASQUINO</td>
 				</tr>
 				<tr>
-				<td><strong>ESENCIA </strong> CHANTILLY</td>
-				<td><strong>ESENCIA </strong> MENTA</td>
+				<td><strong>ESSÊNCIAS </strong> CHANTILLY</td>
+				<td><strong>ESSÊNCIAS </strong> MENTA</td>
 				</tr>
 				<tr class="panel-footer">
-				<td><strong>ESENCIA</strong> CHOCOLATE</td>
-				<td><strong>ESENCIA</strong> NARANJA</td>
+				<td><strong>ESSÊNCIAS</strong> CHOCOLATE</td>
+				<td><strong>ESSÊNCIAS</strong> NARANJA</td>
 				</tr>
 				<tr>
-				<td><strong>ESENCIA </strong> CHOCOLATE BLANCO</td>
-				<td><strong>ESENCIA </strong> NUEZ</td>
+				<td><strong>ESSÊNCIAS </strong> CHOCOLATE BLANCO</td>
+				<td><strong>ESSÊNCIAS </strong> NUEZ</td>
 				</tr>
 				<tr class="panel-footer">
-				<td><strong>ESENCIA</strong> CHOCOLATE</td>
-				<td><strong>ESENCIA</strong> NARANJA</td>
+				<td><strong>ESSÊNCIAS</strong> CHOCOLATE</td>
+				<td><strong>ESSÊNCIAS</strong> LARANJA</td>
 				</tr>
 				<tr>
-				<td><strong>ESENCIA </strong> CHOCOLATE BLANCO</td>
-				<td><strong>ESENCIA </strong> NUEZ</td>
+				<td><strong>ESSÊNCIAS </strong> CHOCOLATE BRANCO</td>
+				<td><strong>ESSÊNCIAS </strong> NOZ</td>
 				</tr>
 				<tr class="panel-footer">
-				<td><strong>ESENCIA</strong> COCO</td>
-				<td><strong>ESENCIA</strong> PERA</td>
+				<td><strong>ESSÊNCIAS</strong> COCO</td>
+				<td><strong>ESSÊNCIAS</strong> PERA</td>
 				</tr>
 				<tr>
-				<td><strong>ESENCIA </strong> COGÑAC</td>
-				<td><strong>ESENCIA </strong> POMELO</td>
+				<td><strong>ESSÊNCIAS </strong> CONHAQUE</td>
+				<td><strong>ESSÊNCIAS </strong> POMELO</td>
 				</tr>
 				<tr class="panel-footer">
-				<td><strong>ESENCIA</strong> CURACAO</td>
-				<td><strong>ESENCIA</strong> RHUM </td>
+				<td><strong>ESSÊNCIAS</strong> CURAÇAU</td>
+				<td><strong>ESSÊNCIAS</strong> RUM </td>
 				</tr>
 				<tr>
-				<td><strong>ESENCIA </strong> DURAZNO</td>
-				<td><strong>ESENCIA </strong> VAINILLA</td>
+				<td><strong>ESSÊNCIAS </strong> DAMASCO</td>
+				<td><strong>ESSÊNCIAS </strong> SAMBAYON</td>
 				</tr>
 				<tr class="panel-footer">
-				<td><strong>ESENCIA</strong> EUCALIPTUS</td>
-				<td><strong>ESENCIA</strong> WHISKY </td>
+				<td><strong>ESSÊNCIAS</strong> PÊSSEGO</td>
+				<td><strong>ESSÊNCIAS</strong> BAUNILHA </td>
 				</tr>
 				<tr>
-				<td><strong>ESENCIA </strong> DAMASCO</td>
-				<td></td>
+				<td><strong>ESSÊNCIAS </strong> EUCALIPTUS</td>
+				<td><strong>ESSÊNCIAS </strong> UÍSQUE</td>
 				</tr>				
 				</tbody>
 				</table>
@@ -127,29 +125,19 @@
 			</div>
 			
 				<div class="content company row">
-				<h3><u>M&aacute;s Productos:</u></h3>
+				<h3><u>Mais Produtos:</u></h3>
 	      		<div class="">
 				<br/>
 					<p>
-					<li><strong>
-					COLORANTE EN PASTA </strong>Ponemos a su alcance la línea más extensa del mercado de total 
-					definición. Encuentra su aplicación en el coloreado de cualquier masa para modelado 
-					(logrando tonos intensos y definidos), a saber: pasta de goma, masa de porcelana en frío, 
-					papel machet, etc. Al estar elaborados con colorantes alimenticios se convierte en un producto 
-					no toxico y de máxima concentración en el poder de teñido.
-					<span class="text-red"><strong>Lanzamiento de nuevos colores:</strong> </span><a href="#">Ver Colores</a>
+					<li><strong>CORANTE EM PASTA (GEL) </strong>Colocamos a sua disposição a maior linha do mercado com cores de total definição. Tem sua própria aplicação no colorido de qualquer massa para modelado (atingindo tons intensos e definidos), exemplos de massas: massa elástica (massa de goma), massa biscuit, massa para modelar papel machê, etc. Sendo elaborados com corantes alimentícios se tranformam em produtos não tóxicos e de máxima concentração.
+					<span class="text-red"><strong>Lançamento de novas cores:</strong> </span><a href="#">Ver Cores</a>
 					</li>
 					</p>
 					<br/>
 					<p>
 					<li>
 
-					<span class="strong">COLORANTE EN POLVO</span> es una novedad dentro de la repostería y 
-					reemplaza al polvo de tiza, teniendo como ventaja que nuestro 
-					producto es comestible y de una excelente calidad. Para lograr colores esfumados, 
-					tenues, se debe aplicar sobre superficies secas con un pincel. Para lograr colores 
-					intensos, se debe aplicar sobre superficies secas con el pincel mojado en alcohol logrando 
-					un secado instantáneo. <span class="strong">Colores: amarillo, rojo, rosa, azul, verde, en desarrollo.</span>
+					<span class="strong">CORANTE EM PÓ</span> É uma novidade dentro da confeitaria substituindo o pó de giz, tem a vantagem de nosso produto ser comestível e de uma excelente qualidade. Para obter cores esfumaçadas, tênues, tem de ser aplicado sobre superfíceis secas com um pincel seco. Para obter tons intensos, tem de ser aplicado sobre superfíceis secas mas com o pincel molhado em álcool alcançando uma secagem instantânea.<span class="strong">Cores: amarelo, vermelho, rosa, azul, verde, em desenvolvimento.</span>
 
 					</li>
 					</p>

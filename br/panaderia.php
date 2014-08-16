@@ -22,73 +22,71 @@
 	    ?>
 	    <div class="container company col-md-offset-2 col-md-8">
 			<div class="events-tittle">
-	        	<a name="title"><h3 class="letter-title">Panader&iacute;a y Confiter&iacute;a</h3></a>
+	        	<a name="title"><h3 class="letter-title">Padaria e confeitaria</h3></a>
 	      	</div>
 	      	<div class="content company row">
 	      		<div class="">
-	      			<p>Ponemos a su alcance nuestra línea industrial para elaborar 
-					productos de alta calidad. Tiene la posibilidad de optar entre diferentes 
-					concentraciones y productos especiales para alta temperatura.</p>
-					<p>Los productos que ofrecemos relacionado con panadería son los siguientes:</p>
+	      			<p>Oferecemos nossa linha industrial para elaborar produtos de alta qualidade. Você tem a possibilidade de optar entre diferentes concentrações e produtos especiais para alta temperatura.</p>
+					<p>Os produtos são os seguintes:</p>
 	      		</div>
 	      	</div>
 			<br>
 			<div class="panel panel-primary ">
-			<div class="panel-heading">Listado de Escencias</div>
+			<div class="panel-heading">Lista de Essências</div>
 				<table class="table"> 
 
 				<tbody>
 				<tr>
-				<td><strong>ESENCIA</strong> AGUA DE AZAHAR</td>
-				<td><strong>ESENCIA</strong> COCO </td>
+				<td><strong>ESSÊNCIAS</strong> FLOR DE LARANJEIRA</td>
+				<td><strong>ESSÊNCIAS</strong> COCO </td>
 				</tr>
 				<tr class="panel-footer">
-				<td ><strong>ESENCIA</strong> ALMENDRAS AMARGAS</td>
-				<td><strong>ESENCIA</strong> DULCE DE LECHE</td>
+				<td><strong>ESSÊNCIAS</strong> AMÊNDOAS</td>
+				<td><strong>ESSÊNCIAS</strong> DOCE DE LEITE</td>
 				</tr>
 				<tr>
-				<td><strong>ESENCIA</strong> ANANA</td>
-				<td><strong>ESENCIA</strong> FRUTILLA</td>
+				<td><strong>ESSÊNCIAS</strong> ABACAXI</td>
+				<td><strong>ESSÊNCIAS</strong> MORANGO</td>
 				</tr>
 				<tr class="panel-footer">
-				<td><strong>ESENCIA</strong> ANIS</td>
-				<td><strong>ESENCIA</strong> LIMON</td>
+				<td><strong>ESSÊNCIAS</strong> ANIS</td>
+				<td><strong>ESSÊNCIAS</strong> LIMÃO</td>
 				</tr>
 				<tr>
-				<td><strong>ESENCIA</strong> BANANA</td>
-				<td><strong>ESENCIA</strong> MANZANA</td>
+				<td><strong>ESSÊNCIAS</strong> BANANA</td>
+				<td><strong>ESENCIA</strong> MAÇÃ</td>
 				</tr>
 				<tr class="panel-footer">
-				<td><strong>ESENCIA</strong> BUDIN</td>
-				<td><strong>ESENCIA</strong> MARRASCHINO</td>
+				<td><strong>ESSÊNCIAS</strong> BOLO INGLÊS</td>
+				<td><strong>ESSÊNCIAS</strong> MARRASQUINO</td>
 				</tr>
 				<tr>
-				<td><strong>ESENCIA </strong> CACAO</td>
-				<td><strong>ESENCIA </strong> MENTA </td>
+				<td><strong>ESSÊNCIAS </strong> CACAU</td>
+				<td><strong>ESSÊNCIAS </strong> MENTA </td>
 				</tr>
 				<tr class="panel-footer">
-				<td><strong>ESENCIA</strong> CAFE</td>
-				<td><strong>ESENCIA</strong> MIEL</td>
+				<td><strong>ESSÊNCIAS</strong> CAFE</td>
+				<td><strong>ESSÊNCIAS</strong> MEL</td>
 				</tr>
 				<tr>
-				<td><strong>ESENCIA </strong> CANELA</td>
-				<td><strong>ESENCIA </strong> NARANJA</td>
+				<td><strong>ESSÊNCIAS </strong> CANELA</td>
+				<td><strong>ESSÊNCIAS </strong> LARANJA</td>
 				</tr>
 				<tr class="panel-footer">
-				<td><strong>ESENCIA</strong> CEREZA</td>
-				<td><strong>ESENCIA</strong> NUEZ</td>
+				<td><strong>ESSÊNCIAS</strong> CEREJA</td>
+				<td><strong>ESSÊNCIAS</strong> NOZ</td>
 				</tr>
 				<tr>
-				<td><strong>ESENCIA </strong> CHANTILLY</td>
-				<td><strong>ESENCIA </strong> PERA</td>
+				<td><strong>ESSÊNCIAS </strong> CHANTILLY</td>
+				<td><strong>ESSÊNCIAS </strong> PERA</td>
 				</tr>
 				<tr class="panel-footer">
-				<td><strong>ESENCIA</strong> CHOCOLATE</td>
-				<td><strong>ESENCIA</strong> RHUM</td>
+				<td><strong>ESSÊNCIAS</strong> CHOCOLATE</td>
+				<td><strong>ESSÊNCIAS</strong> RUM</td>
 				</tr>
 				<tr>
-				<td><strong>ESENCIA </strong> CHOCOLATE BLANCO</td>
-				<td><strong>ESENCIA </strong> VAINILLA</td>
+				<td><strong>ESSÊNCIAS </strong> CHOCOLATE BRANCO</td>
+				<td><strong>ESSÊNCIAS </strong> BAUNILHA</td>
 				</tr>
 				
 				</tbody>
@@ -97,29 +95,32 @@
 			</div>
 			
 			<div class="panel panel-primary ">
-			<div class="panel-heading">Listado de Colorantes L&iacute;quidos</div>
+			<div class="panel-heading">Lista de Corantes L&iacute;quidos</div>
 				<table class="table"> 
 
 				<tbody>
 				<tr>
-				<td><strong>COLORANTE LIQUIDO</strong> AMARILLO</td></tr>
+				<td><strong>CORANTE LÍQUIDO</strong> AMARELO</td></tr>
 				<tr class="panel-footer">
-				<td><strong>COLORANTE LIQUIDO</strong> AZUL</td></tr>			
+				<td><strong>CORANTE LÍQUIDO</strong> AZUL</td></tr>			
 				<tr >
-				<td ><strong>COLORANTE LIQUIDO</strong> CELESTE</td></tr>
+				<td ><strong>CORANTE LÍQUIDO</strong> CELESTE</td></tr>
 				<tr class="panel-footer">
-				<td><strong>COLORANTE LIQUIDO</strong> MARRON</td></tr>
+				<td><strong>CORANTE LÍQUIDO</strong> MARRON</td></tr>
 				
 				<tr>
-				<td><strong>COLORANTE LIQUIDO</strong> NARANJA</td></tr>
+				<td><strong>CORANTE LÍQUIDO</strong> LARANJA</td></tr>
 				<tr class="panel-footer">
-				<td><strong>COLORANTE LIQUIDO</strong> ROJO</td></tr>
+				<td><strong>CORANTE LÍQUIDO</strong> VERMELHO</td></tr>
 
 				<tr >
-				<td><strong>COLORANTE LIQUIDO</strong> ROSA </td></tr>
+				<td><strong>CORANTE LÍQUIDO</strong> ROSA </td></tr>
 				<tr class="panel-footer">
-				<td><strong>COLORANTE LIQUIDO</strong> VERDE</td></tr>
-
+				<td><strong>CORANTE LÍQUIDO</strong> VERDE</td></tr>
+				
+				<tr>
+				<td><strong>CORANTE LÍQUIDO</strong> VIOLETA</td>
+				</tr>
 
 				</tbody>
 				</table>
@@ -127,7 +128,7 @@
 			</div>
 			
 				<div class="content company row">
-				<h2 ><u>M&aacute;s Productos:</u></h2>
+				<h2 ><u>Mais Produtos:</u></h2>
 	      		<div class="">
 				<br/>
 					<p>
@@ -139,11 +140,7 @@
 					</p>
 					<br/>
 					<p>
-					<li><span class="strong">COLORANTE EN PASTA</span> Ponemos a su alcance la línea más extensa del 
-					mercado de total definición. Encuentra su aplicación en el coloreado de cualquier masa para 
-					modelado (logrando tonos intensos y definidos), a saber: pasta de goma, masa de porcelana en frío, 
-					papel machet, etc. Al estar elaborados con colorantes alimenticios se convierte en un producto no 
-					toxico y de máxima concentración en el poder de teñido.<a href="#">Ver Colores</a> </li>
+					<li><span class="strong">CORANTE EM PASTA (GEL)</span> Colocamos a sua disposição a maior linha do mercado com cores de total definição. Tem sua própria aplicação no colorido de qualquer massa para modelado (atingindo tons intensos e definidos), exemplos de massas: massa elástica (massa de goma), massa biscuit, massa para modelar papel machê, etc. Sendo elaborados com corantes alimentícios se tranformam em produtos não tóxicos e de máxima concentração.<a href="#">Ver Cores</a> </li>
 					</p>
 					<br/>
 					<p>

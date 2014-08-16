@@ -26,7 +26,7 @@
 	      	</div>
 	      	<div class="content company row">
 	      		<div class="">
-	      			<p><span class="strong">Laboratorio fleibor</span>oferece uma grande linha de corantes e essências para elaboração de sorvetes. A sobremesa preferida do verão tem de refletir no paladar frescura e sabor agradável. Graças à diversidade de aromas que produzimos você poderá obter um produto de ótima qualidade.</p>
+	      			<p><span class="strong">Laboratorio fleibor</span> oferece uma grande linha de corantes e essências para elaboração de sorvetes. A sobremesa preferida do verão tem de refletir no paladar frescura e sabor agradável. Graças à diversidade de aromas que produzimos você poderá obter um produto de ótima qualidade.</p>
 					<p><span class="strong">Produtos</span> para <span class="strong">sorvetes:</span></p>
 	      		</div>
 	      	</div>
@@ -77,40 +77,43 @@
 				<td><strong>ESSÊNCIAS </strong> LARANJA</td>
 				</tr>
 				<tr>
-				<td><strong>ESSÊNCIAS </strong> CHOCOLATE BLANCO</td>
-				<td><strong>ESSÊNCIAS </strong> CHOCOLATE</td>
+				<td><strong>ESSÊNCIAS </strong> CHANTILLY</td>
+				<td><strong>ESSÊNCIAS </strong> NOZ</td>
 				</tr>
 				<tr class="panel-footer">
-				<td><strong>ESSÊNCIAS </strong> PANETTONE </td>
-				<td><strong>ESSÊNCIAS </strong> NUEZ</td>
+				<td><strong>ESSÊNCIAS </strong> CHOCOLATE </td>
+				<td><strong>ESSÊNCIAS </strong> PANETTONE</td>
 				</tr>
 				<tr>
-				<td><strong>ESSÊNCIAS </strong> PERA</td>
-				<td><strong>ESSÊNCIAS </strong> COCO </td>
+				<td><strong>ESSÊNCIAS </strong> CHOCOLATE BRANCO</td>
+				<td><strong>ESSÊNCIAS </strong> PERA </td>
 				</tr>
 				<tr class="panel-footer">
-				<td><strong>ESSÊNCIAS </strong> PISTACHO</td>
-				<td><strong>ESSÊNCIAS </strong> COGÑAC</td>
+				<td><strong>ESSÊNCIAS </strong> COCO</td>
+				<td><strong>ESSÊNCIAS </strong> PISTACHE</td>
 				</tr>
 				<tr>
-				<td><strong>ESSÊNCIAS </strong> CREMA AMERICANA</td>
+				<td><strong>ESSÊNCIAS </strong> CONHAQUE</td>
 				<td><strong>ESSÊNCIAS </strong> POMELO</td>
 				</tr>
 				<tr class="panel-footer">
-				<td><strong>ESSÊNCIAS </strong> DULCE DE LECHE </td>
-				<td><strong>ESSÊNCIAS </strong> DAMASCO</td>		
+				<td><strong>ESSÊNCIAS </strong> CREME </td>
+				<td><strong>ESSÊNCIAS </strong> RUM</td>		
 				</tr>
 				<tr>
+				<td><strong>ESSÊNCIAS </strong> DAMASCO</td>
 				<td><strong>ESSÊNCIAS </strong> SAMBAYON</td>
-				<td><strong>ESSÊNCIAS </strong> RHUM</td>
 				</tr>
 				<tr class="panel-footer">
-				<td><strong>ESSÊNCIAS </strong> VAINILLA</td>
-				<td><strong>ESSÊNCIAS </strong> DURAZNO</td>		
+				<td><strong>ESSÊNCIAS </strong> DOCE DE LEITE</td>
+				<td><strong>ESSÊNCIAS </strong> BAUNILHA</td>		
 				</tr>
 								<tr>
-				<td><strong>ESSÊNCIAS </strong> WHISKY</td>
-				<td><strong>ESSÊNCIAS </strong> FRAMBUESA</td>
+				<td><strong>ESSÊNCIAS </strong> PÊSSEGO</td>
+				<td><strong>ESSÊNCIAS </strong> UÍSQUE</td>
+				</tr>
+				<tr class="panel-footer">
+				<td><strong>ESSÊNCIAS </strong> FRAMBOESA</td>
 				</tr>
 				
 				</tbody>
@@ -119,31 +122,31 @@
 			</div>
 			
 			<div class="panel panel-primary ">
-			<div class="panel-heading">Listado de Colorantes L&iacute;quidos</div>
+			<div class="panel-heading">Lista de Corantes L&iacute;quidos</div>
 				<table class="table"> 
 
 				<tbody>
 				<tr>
-				<td><strong>COLORANTE LIQUIDO</strong> AMARILLO</td></tr>
+				<td><strong>CORANTE LÍQUIDO</strong> AMARELO</td></tr>
 				<tr class="panel-footer">
-				<td><strong>COLORANTE LIQUIDO</strong> AZUL</td></tr>			
+				<td><strong>CORANTE LÍQUIDO</strong> AZUL</td></tr>			
 				<tr >
-				<td ><strong>COLORANTE LIQUIDO</strong> CELESTE</td></tr>
+				<td ><strong>CORANTE LÍQUIDO</strong> CELESTE</td></tr>
 				<tr class="panel-footer">
-				<td><strong>COLORANTE LIQUIDO</strong> MARRON</td></tr>
+				<td><strong>CORANTE LÍQUIDO</strong> MARRON</td></tr>
 				
 				<tr>
-				<td><strong>COLORANTE LIQUIDO</strong> NARANJA</td></tr>
+				<td><strong>CORANTE LÍQUIDO</strong> LARANJA</td></tr>
 				<tr class="panel-footer">
-				<td><strong>COLORANTE LIQUIDO</strong> ROJO</td></tr>
+				<td><strong>CORANTE LÍQUIDO</strong> VERMELHO</td></tr>
 
 				<tr >
-				<td><strong>COLORANTE LIQUIDO</strong> ROSA </td></tr>
+				<td><strong>CORANTE LÍQUIDO</strong> ROSA </td></tr>
 				<tr class="panel-footer">
-				<td><strong>COLORANTE LIQUIDO</strong> VERDE</td></tr>
+				<td><strong>CORANTE LÍQUIDO</strong> VERDE</td></tr>
 				
 				<tr>
-				<td><strong>COLORANTE LIQUIDO</strong> VIOLETA</td>
+				<td><strong>CORANTE LÍQUIDO</strong> VIOLETA</td>
 				</tr>
 
 				</tbody>

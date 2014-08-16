@@ -26,59 +26,63 @@
 	      	</div>
 	      	<div class="content company row">
 	      		<div class="">
-					<p>Los productos que ofrecemos relacionado con <span class="strong">lácteos</span> son los siguientes: </p>
+					<p>Os produtos que oferecemos relacionados com <span class="strong">lácteos</span> são os seguintes: </p>
 	      		</div>
 	      	</div>
 			<br>
 			<div class="panel panel-primary ">
-			<div class="panel-heading">Listado de Escencias</div>
+			<div class="panel-heading">Lista de Essências</div>
 				<table class="table"> 
 
 				<tbody>
 				<tr>
-				<td><strong>ESENCIA</strong> ANANA</td>
-				<td><strong>ESENCIA</strong> GUINDA</td>
+				<td><strong>ESSÊNCIAS</strong> ABACAXI</td>
+				<td><strong>ESSÊNCIAS</strong> GINJA</td>
 				</tr>
 				<tr class="panel-footer">
-				<td ><strong>ESENCIA</strong> BANANA </td>
-				<td><strong>ESENCIA</strong> HUMO </td>
+				<td ><strong>ESSÊNCIAS</strong> BANANA </td>
+				<td><strong>ESSÊNCIAS</strong> FUMAÇA </td>
 				</tr>
 				<tr>
-				<td><strong>ESENCIA</strong> CACAO</td>
-				<td><strong>ESENCIA</strong> VAINILLA </td>
+				<td><strong>ESSÊNCIAS</strong> CACAU</td>
+				<td><strong>ESSÊNCIAS</strong> PRESUNTO </td>
 				</tr>
 				<tr class="panel-footer">
-				<td><strong>ESENCIA</strong> CEREZA </td>
-				<td><strong>ESENCIA</strong> LIMON </td>
+				<td><strong>ESSÊNCIAS</strong> CEREJA </td>
+				<td><strong>ESSÊNCIAS</strong> LIMÃO </td>
 				</tr>
 				<tr>
-				<td><strong>ESENCIA</strong> CHANTILLY </td>
-				<td><strong>ESENCIA</strong> MANTECA</td>
+				<td><strong>ESSÊNCIAS</strong> CHANTILLY </td>
+				<td><strong>ESSÊNCIAS</strong> MANTEIGA</td>
 				</tr>
 				<tr class="panel-footer">
-				<td><strong>ESENCIA</strong> CHOCOLATE </td>
-				<td><strong>ESENCIA</strong> MANZANA </td>
+				<td><strong>ESSÊNCIAS</strong> CHOCOLATE </td>
+				<td><strong>ESSÊNCIAS</strong> MAÇÃ </td>
 				</tr>
 				<tr>
-				<td><strong>ESENCIA </strong> COCO </td>
-				<td><strong>ESENCIA</strong> NARANJA </td>
+				<td><strong>ESSÊNCIAS </strong> COCO </td>
+				<td><strong>ESSÊNCIAS</strong> LARANJA </td>
 				</tr>
 				<tr class="panel-footer">
-				<td><strong>ESENCIA</strong> DAMASCO </td>
-				<td><strong>ESENCIA</strong> PERA </td>
+				<td><strong>ESSÊNCIAS</strong> DAMASCO </td>
+				<td><strong>ESSÊNCIAS</strong> PERA </td>
 				</tr>
 				<tr>
-				<td><strong>ESENCIA </strong> DULCE DE LECHE </td>
-				<td><strong>ESENCIA</strong> POMELO </td>
+				<td><strong>ESSÊNCIAS </strong> DOCE DE LEITE </td>
+				<td><strong>ESSÊNCIAS</strong> POMELO </td>
 				</tr>				
 				<tr class="panel-footer">
-				<td><strong>ESENCIA</strong> DURAZNO </td>
-				<td><strong>ESENCIA</strong> QUESO </td>
+				<td><strong>ESSÊNCIAS</strong> PÊSSEGO </td>
+				<td><strong>ESSÊNCIAS</strong> QUEIJO </td>
 				</tr>
 				<tr>
-				<td><strong>ESENCIA </strong> FRAMBUESA  </td>
-				<td><strong>ESENCIA</strong> FRUTILLA </td>
-				</tr>				
+				<td><strong>ESSÊNCIAS </strong> FRAMBOESA  </td>
+				<td><strong>ESSÊNCIAS</strong> SAMBAYON </td>
+				</tr>
+				<tr class="panel-footer">
+				<td><strong>ESSÊNCIAS</strong> MORANGO </td>
+				<td><strong>ESSÊNCIAS</strong> BAUNILHA </td>
+				</tr>
 	
 				</tbody>
 				</table>
@@ -91,26 +95,26 @@
 
 				<tbody>
 				<tr>
-				<td><strong>COLORANTE LIQUIDO</strong> AMARILLO</td></tr>
+				<td><strong>CORANTE LÍQUIDO</strong> AMARELO</td></tr>
 				<tr class="panel-footer">
-				<td><strong>COLORANTE LIQUIDO</strong> AZUL</td></tr>			
+				<td><strong>CORANTE LÍQUIDO</strong> AZUL</td></tr>			
 				<tr >
-				<td ><strong>COLORANTE LIQUIDO</strong> CELESTE</td></tr>
+				<td ><strong>CORANTE LÍQUIDO</strong> CELESTE</td></tr>
 				<tr class="panel-footer">
-				<td><strong>COLORANTE LIQUIDO</strong> MARRON</td></tr>
+				<td><strong>CORANTE LÍQUIDO</strong> MARRON</td></tr>
 				
 				<tr>
-				<td><strong>COLORANTE LIQUIDO</strong> NARANJA</td></tr>
+				<td><strong>CORANTE LÍQUIDO</strong> LARANJA</td></tr>
 				<tr class="panel-footer">
-				<td><strong>COLORANTE LIQUIDO</strong> ROJO</td></tr>
+				<td><strong>CORANTE LÍQUIDO</strong> VERMELHO</td></tr>
 
 				<tr >
-				<td><strong>COLORANTE LIQUIDO</strong> ROSA </td></tr>
+				<td><strong>CORANTE LÍQUIDO</strong> ROSA </td></tr>
 				<tr class="panel-footer">
-				<td><strong>COLORANTE LIQUIDO</strong> VERDE</td></tr>
+				<td><strong>CORANTE LÍQUIDO</strong> VERDE</td></tr>
 				
 				<tr>
-				<td><strong>COLORANTE LIQUIDO</strong> VIOLETA</td>
+				<td><strong>CORANTE LÍQUIDO</strong> VIOLETA</td>
 				</tr>
 
 				</tbody>
