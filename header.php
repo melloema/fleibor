@@ -5,31 +5,12 @@
 	<div class="container">
 		<div class="navbar navbar-inverse navbar-static-top" role="navigation">
     	<div class="container">
-			<div class="pull-right">
-				<form method="post" action="" name="form_idioma">
-				<select name="idioma">
-				<option value="1">Espa&ntilde;ol</option>
-				<option value="2">Portugues</option>
-				</select>
-				<input type="submit" name="enviar" value="elegir"/>
-				</form>
-				<?php
-				if(isset($_POST['enviar'])){
-					$op=$_POST['idioma'];
-					if($op=="1"){
-						header("location:index.php");
-					}
-					else{
-						if($op=="2"){
-							header("location:br/index.php");
-						}
-						else{
-							header("location:index.php");
-						}
-					}
-				}
-				?>
-			</div>
+        <div class="menuIdioma">
+          <form method="post" action="swichIdioma.php" id="form_idioma">
+            <button value="1" type="submit" name="idioma" id="espa" class="selectidioma" title='Idioma Español'><img  class="img-circle banderas"   src="img/argid.jpg"></button>
+            <button value="2" type="submit" name="idioma" id="port" class="selectidioma" title='Idioma Portugues' ><img class="img-circle banderas" src="img/brasilport.jpg"></button>
+          </form>
+        </div>  
   			<div class="navbar-header">
         	<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
             <span class="sr-only">Toggle navigation</span>
@@ -37,10 +18,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
         	</button>
-          <a class="navbar-brand" <?php if($path[2] == "index.php") echo 'href="#"'; else echo 'href="index.php"';?>>Fleibor</a>
-          <div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/"></div>
-          <div class="addthis_sharing_toolbox addthis-hidden">
-          </div>
+          <a class="navbar-brand" <?php if($path[2] == "index.php") echo 'href="#"'; else echo 'href="index.php"';?>><img class="img-circle logo" src="img/logoweb2.jpg" width="130"></a>
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
@@ -50,8 +28,6 @@
             <li <?php if($path[2] == "company.php") echo 'class="active"'; ?>><a <?php if($path[2] == "company.php") echo 'href="#"'; else echo 'href="company.php"'?>>Empresa</a></li>
             <li <?php if($path[2] == "contact.php") echo 'class="active"'; ?>><a <?php if($path[2] == "contact.php") echo 'href="#"'; else echo 'href="contact.php"'; ?>>Contactenos</a></li>
           </ul>
-          <div class="addthis_sharing_toolbox addthis pull-right">
-          </div>
         </div>
       </div>
     </div>
@@ -65,7 +41,7 @@
   </ol>
   <div class="carousel-inner">
     <div class="item active">
-      <img class="imgBanner img-responsive" src="img/banner1.jpg">
+      <img class="imgBanner img1" src="img/banner1.jpg">
       <div class="container">
         <div class="carousel-caption">
           <h1>Laboratorio Fleibor srl.</h1>
@@ -75,10 +51,15 @@
       </div>
     </div>
     <div class="item">
-      <img class="imgBanner"  src="img/banner2.jpg">
+      <img class="imgBanner img1 "  src="img/banner2.jpg">
     </div>
     <div class="item">
       <img class="imgBanner"  src="img/banner3.jpg">
+      <div class="container">
+        <div class="carousel-caption">
+          <p><a class="btn btn-lg btn-primary" href="/contact.php" role="button">Pedido</a></p>
+        </div>
+      </div>
     </div>
   </div>
   <a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>

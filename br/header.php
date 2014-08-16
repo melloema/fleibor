@@ -5,31 +5,12 @@
 	<div class="container">
 		<div class="navbar navbar-inverse navbar-static-top" role="navigation">
     	<div class="container">
-			<div class="pull-right">
-				<form method="post" action="" name="form_idioma">
-				<select name="idioma">
-				<option value="1">Espa&ntilde;ol</option>
-				<option value="2">Portugues</option>
-				</select>
-				<input type="submit" class="" name="enviar" value="escolher"/>
-				</form>
-				<?php
-				if(isset($_POST['enviar'])){
-					$op=$_POST['idioma'];
-					if($op=="1"){
-						header("location:../index.php");
-					}
-					else{
-						if($op=="2"){
-							header("location:../br/index.php");
-						}
-						else{
-							header("location:../index.php");
-						}
-					}
-				}
-				?>
-			</div>
+        <div class="menuIdioma">
+          <form method="post" action="swichIdioma.php" id="form_idioma">
+            <button value="1" type="submit" name="idioma" id="espa" class="selectidioma" title='Idioma Español'><img  class="img-circle banderas" src="img/argid.jpg"></button>
+            <button value="2" type="submit" name="idioma" id="port" class="selectidioma" title='Idioma Portugues' ><img class="img-circle banderas" src="img/brasilport.jpg"></button>
+          </form>
+        </div>  
   			<div class="navbar-header">
         	<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
             <span class="sr-only">Toggle navigation</span>
@@ -38,9 +19,6 @@
             <span class="icon-bar"></span>
         	</button>
           <a class="navbar-brand" <?php if($path[2] == "index.php") echo 'href="#"'; else echo 'href="index.php"';?>>Fleibor</a>
-          <div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/"></div>
-          <div class="addthis_sharing_toolbox addthis-hidden">
-          </div>
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
@@ -50,8 +28,7 @@
             <li <?php if($path[2] == "company.php") echo 'class="active"'; ?>><a <?php if($path[2] == "company.php") echo 'href="#"'; else echo 'href="company.php"'?>>Companhia</a></li>
             <li <?php if($path[2] == "contact.php") echo 'class="active"'; ?>><a <?php if($path[2] == "contact.php") echo 'href="#"'; else echo 'href="contact.php"'; ?>>Contato</a></li>
           </ul>
-          <div class="addthis_sharing_toolbox addthis pull-right">
-          </div>
+
         </div>
       </div>
     </div>
@@ -84,3 +61,5 @@
   <a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
   <a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
 </div>
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53dd285a75715a0e"></script>

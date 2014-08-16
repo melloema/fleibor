@@ -21,8 +21,8 @@
 }
 
 .navbar-inverse {
-	background-color: #f0ad4e;
-	border-color: #eea236;
+	background-color: #CC3100;
+	border-color: #A22000;
 }
 
 .navbar-inverse .navbar-nav>.active>a {
@@ -34,8 +34,8 @@
 .navbar-inverse .navbar-toggle:hover,
 .navbar-inverse .navbar-nav>.active>a, 
 .navbar-inverse .navbar-nav>.active>a:hover {
-	background-color: #ed9c28;
-	border-color: #d58512;
+	background-color: #960000;
+	border-color: #680000;
 }
 
 .navbar-inverse .navbar-nav>li>a {
@@ -64,13 +64,6 @@
 	text-align: center;
 }
 
-.carousel-inner > .item > img {
-	height: 100%;
-}
-
-.carousel .item {
-	max-height: 500px;
-}
 
 .wrap-form {
 	margin: 0 auto;
@@ -109,6 +102,29 @@
 label.error {
 	color: #a94442;
 }
+#form_idioma button{
+
+width: 37px;
+height: 37px;
+border: none;
+padding: 0px;
+display: inline-block;
+margin-right: 3px;
+background: none;
+	
+}
+.banderas{
+ border:solid #fff 2px !important;
+}
+.menuIdioma{
+	width: 92px;
+	display: block;
+	float: right;
+	height: 37px;
+	margin-top: 7px;
+	margin-right: 39px;
+}
+
 
 @media (min-width: 768px) {
 	.addthis-hidden {
@@ -129,4 +145,73 @@ label.error {
 	.addthis {
 		display: none;
 	}
+}
+.carousel-inner {
+
+min-height: 500px;
+height: 500px;
+margin: 0 auto;
+width: 100%;
+max-width: 1920px;
+display:block;
+position: relative;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+overflow:hiden !important; 
+
+
+}
+.item {
+	min-height: 500px;
+height: 500px;
+margin: 0 auto;
+width: 100%;
+max-width: 1920px;
+display:block;
+position: relative;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+overflow:hiden !important; 
+
+
+}
+.img1{
+
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+overflow:hiden !important; 
+}
+.carousel{
+		min-height: 500px;
+height: 500px;
+margin: 0 auto;
+width: 100%;
+max-width: 1920px;
+display:block;
+position: relative;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+overflow:hiden !important; 
+}
+.carousel-inner>.active, .carousel-inner>.next, .carousel-inner>.prev {
+		min-height: 500px;
+height: 500px;
+margin: 0 auto;
+width: 100%;
+max-width: 1920px;
+display:block;
+position: relative;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+overflow:hiden !important; 
 }

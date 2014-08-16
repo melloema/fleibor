@@ -78,3 +78,39 @@ $(function(){
 		});
 	}
 });
+
+
+
+var Controles = {
+
+};
+
+(function ($, c) {
+
+	c.cnt_selectIdioma = function (element) {
+		element.on("click", function(){
+		c.requestSelectIdioma($(this).val());
+		});
+	}
+
+	c.requestSelectIdioma = function (idioma) {
+		$("#form_idioma").submit();
+	}
+
+
+	
+
+
+})(jQuery, Controles);
+
+function init() {
+
+	Controles.cnt_selectIdioma($('.menuIdioma .selectidioma'));
+
+}
+
+
+$(document).ready(init);
+
+
+
