@@ -26,22 +26,24 @@
 	      	</div>
 	      	<div class="content company row">
 	      		<div class="">
-	      			<p><strong>ADHESIVO MULTIPLE</strong> insustituible producto para el pegado de piezas en pasta de goma. 
-					Es ideal para adherir los brillos permitiendo hacer filetes y obtener una menor perdida de producto en su aplicación.</p>
+	      			<p><strong>ADESIVO MULTIPLE</strong> produto insubstituível para colar peças feitas em massa de goma (massa elástica).
+					É ideal para aderir os brilhos permitindo fazer filetes e obter uma menor perda de produto em sua aplicação.</p>
 					<br/>
-	      			<p><strong>CRAQUELADOR</strong> se aplica con pincel una capa sobre la superficie limpia y seca. Se seca con secador 
-					de pelo en máximo e inmediatamente comenzara a cuartear la superficie en forma de telaraña, similar al 
-					cuarteado por envejecimiento. Para obtener un corte mas profundo aplicar una capa de adhesivo vinílico sobre 
-					la superficie a tratar, dejar secar y luego aplicar según se indica previamente.</p>
+	      			<p><strong>CRAQUELADOR </strong> aplicar com pincel uma camada sobre a 
+					superfície limpa e seca. Secar com secador de cabelo no máximo e imediatamente 
+					começará o craquelê na superfície em forma de teia de aranha, similar ao craquelê 
+					por envelhecimento natural. Para obter um corte mais profundo aplicar uma camada de 
+					adesivo de vinil sobre a superfície a ser tratada, deixar secar e depois aplicar segundo as instruções prévias.</p>
 					<br/>
-					<p><strong>DILIUM</strong> diluyente ecológico para oleos. Reemplaza en su uso a la esencia de trementina. 
-					Posee una fragancia cítrica y barre eficazmente los oleos. Secado rápido.</p><br/>
+					<p><strong>DILIUM</strong> diluente ecológico para óleos. Substitui o uso da terebintina, 
+					tem uma fragância cítrica, lavando e esparramando eficientemente os óleos. Secagem rápida.</p><br/>
 					<p><strong>FORMOL</strong> mantiene la pasta de porcelana y de papel evitando que fermente y tome olor desagradable.</p><br/>
-					<p><strong>ILUMINADOR</strong> polvo superfino para lograr reflejos metálicos. De esta línea se conocía por 
-					tradición el polvo de nácar, nosotros hemos desarrollado distintos <strong>reflejos a saber:</strong> polvo de nácar, 
-					azul, dorado, rojo, violeta, verde.</p><br/>
-					<p><strong>BRILLO</strong> las ventajas de polvos más finos y brillantes, cambiando de color según el ángulo de 
-					incidencia de la luz. <strong>Colores:</strong> azul, estrellas, multicolor, oro, plata, rojo, rosa, tornasolado, verde. </p>
+					<p><strong>ILUMINADOR</strong> pó super fino para obter reflexos metálicos. Desta linha o mais conhecido é o pó de 
+					nácar (madrepérola), nós desenvolvemos diferentes<strong>reflexos metálicos:</strong> NACARADOS: pó de nácar, azul, 
+					dourado, vermelho, violeta e verde.</p><br/>
+					<p><strong>BRILHOS</strong> as vantagens de serem pós mais finos e brilhantes,
+					mudando de cor dependendo do ângulo de incidência da luz.<strong>Cores:</strong>  azul, estrelas, 
+					multicor, ouro, prata, vermelho, rosa, cintilante, verde. </p>
 					<br/>
 		
 	      		</div>

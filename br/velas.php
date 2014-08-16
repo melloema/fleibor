@@ -22,139 +22,131 @@
 	    ?>
 	    <div class="container company col-md-offset-2 col-md-8">
 			<div class="events-tittle">
-	        	<a name="title"><h3 class="letter-title">Art&iacute;culos para velas artesanales</h3></a>
+	        	<a name="title"><h3 class="letter-title">Artigos para velas artesanais</h3></a>
 	      	</div>
 	      	<div class="content company row">
 	      		<div class="">
-	      			<p>Creemos que la calidad de vida se pueda mejorar con pequeñas cosas, 
-					y que se puede lograr la paz interior disfrutando de un aroma agradable en el hogar. </p>
-					<p>Por ello ofrecemos las siguientes <strong>esencias</strong> para velas artesanales:</p>
+	      			<p>Acreditamos que a qualidade de vida pode melhorar com pequenas coisas, 
+					você pode atingir a paz interior desfrutando de um aroma agradável em sua própria casa. </p>
+					<p>Por isso oferecemos as seguintes<strong> essências</strong> para velas artesanais:</p>
 	      		</div>
 	      	</div>
 			<br>
 			<div class="panel panel-primary ">
-			<div class="panel-heading">Listado de Escencias</div>
+			<div class="panel-heading">Listado de Essencia</div>
 				<table class="table"> 
 
 				<tbody>
 				<tr>
-				<td><strong>ESENCIA</strong> AGUA DE AZAHAR </td>
-				<td><strong>ESENCIA</strong> LEMON GRAS</td>
+				<td><strong>ESSÊNCIA </strong> FLOR DE LARANJEIRA </td>
+				<td><strong>ESSÊNCIA </strong> LEMON GRAS</td>
 				</tr>
 				<tr class="panel-footer">
-				<td ><strong>ESENCIA</strong> ALMIZCLE</td>
-				<td><strong>ESENCIA</strong> LILAS </td>
+				<td ><strong>ESSÊNCIA </strong> ALMÍSCAR</td>
+				<td><strong>ESSÊNCIA </strong> LILAS </td>
 				</tr>
 				<tr>
-				<td><strong>ESENCIA</strong> ALOE VERA </td>
-				<td><strong>ESENCIA</strong> LIMON</td>
+				<td><strong>ESSÊNCIA </strong> ALOE VERA </td>
+				<td><strong>ESSÊNCIA </strong> LIMÃO</td>
 				</tr>
 				<tr class="panel-footer">
-				<td><strong>ESENCIA</strong> AMBAR </td>
-				<td><strong>ESENCIA</strong> MADRESELVA </td>
+				<td><strong>ESSÊNCIA </strong> AMBAR </td>
+				<td><strong>ESSÊNCIA </strong> MADRESSILVA  </td>
 				</tr>
 				<tr>
-				<td><strong>ESENCIA</strong> ANANA </td>
-				<td><strong>ESENCIA</strong> MAGNOLIA</td>
+				<td><strong>ESSÊNCIA </strong> ABACAXI  </td>
+				<td><strong>ESSÊNCIA </strong> MAGNOLIA</td>
 				</tr>
 				<tr class="panel-footer">
-				<td><strong>ESENCIA</strong> ANTI-TABACO</td>
-				<td><strong>ESENCIA</strong> MANDARINA </td>
+				<td><strong>ESSÊNCIA </strong> ANTI-TABACO</td>
+				<td><strong>ESSÊNCIA </strong> TANGERINA </td>
 				</tr>
 				<tr>
-				<td><strong>ESENCIA</strong> BUJUI </td>
-				<td><strong>ESENCIA</strong> MANZANA </td>
+				<td><strong>ESSÊNCIA </strong> BUJUI </td>
+				<td><strong>ESSÊNCIA </strong> MAÇÃ  </td>
 				</tr>
 				<tr class="panel-footer">
-				<td><strong>ESENCIA</strong> CAMPOS VERDES </td>
-				<td><strong>ESENCIA</strong> MANZANILLA</td>
+				<td><strong>ESSÊNCIA </strong> CAMPOS VERDES </td>
+				<td><strong>ESSÊNCIA </strong> CAMOMILA</td>
 				</tr>
 				<tr>
-				<td><strong>ESENCIA</strong> CANELA</td>
-				<td><strong>ESENCIA</strong> MARINA</td>
+				<td><strong>ESSÊNCIA </strong> CANELA</td>
+				<td><strong>ESSÊNCIA </strong> MARINHA</td>
 				</tr>
 				<tr class="panel-footer">
-				<td><strong>ESENCIA</strong> CEREZA </td>
-				<td><strong>ESENCIA</strong> MELON </td>
+				<td><strong>ESSÊNCIA </strong> CEREJA</td>
+				<td><strong>ESSÊNCIA </strong> MELÃO  </td>
 				</tr>
 				<tr>
-				<td><strong>ESENCIA</strong> CHERRY</td>
-				<td><strong>ESENCIA</strong> MENTA</td>
+				<td><strong>ESSÊNCIA </strong> CHERRY</td>
+				<td><strong>ESSÊNCIA </strong> MENTA</td>
 				</tr>
 				<tr class="panel-footer">
-				<td><strong>ESENCIA</strong> CHOCOLATE</td>
-				<td><strong>ESENCIA</strong> MIEL</td>
+				<td><strong>ESSÊNCIA </strong> CHOCOLATE</td>
+				<td><strong>ESSÊNCIA </strong> MEL</td>
 				</tr>
 				<tr>
-				<td><strong>ESENCIA</strong> CHOCOMENTA</td>
-				<td><strong>ESENCIA</strong> MIRRA </td>
+				<td><strong>ESSÊNCIA </strong> CHOCOMENTA</td>
+				<td><strong>ESSÊNCIA </strong> MIRRA </td>
 				</tr>
 				<tr class="panel-footer">
-				<td><strong>ESENCIA</strong> CITRONELLA</td>
-				<td><strong>ESENCIA</strong> NARANJA </td>
+				<td><strong>ESSÊNCIA </strong> ERVA CIDREIRA</td>
+				<td><strong>ESSÊNCIA </strong> LARANJA </td>
 				</tr>
 				<tr>
-				<td><strong>ESENCIA</strong> COCO </td>
-				<td><strong>ESENCIA</strong> NARDO</td>
+				<td><strong>ESSÊNCIA </strong> COCO </td>
+				<td><strong>ESSÊNCIA </strong> NARDO</td>
 				</tr>
 				<tr class="panel-footer">
-				<td><strong>ESENCIA</strong> COLONIA</td>
-				<td><strong>ESENCIA</strong> OCEANO</td>
+				<td><strong>ESSÊNCIA </strong> COLONIA</td>
+				<td><strong>ESSÊNCIA </strong> OCEANO</td>
 				</tr>
 				<tr>
-				<td><strong>ESENCIA</strong> DURAZNO</td>
-				<td><strong>ESENCIA</strong> OPIUM </td>
+				<td><strong>ESSÊNCIA </strong> PÊSSEGO</td>
+				<td><strong>ESSÊNCIA </strong> ÓPIO </td>
 				</tr>
 				<tr class="panel-footer">
-				<td><strong>ESENCIA</strong> DURAZNO/NARANJA</td>
-				<td><strong>ESENCIA</strong> PATCHOULY </td>
+				<td><strong>ESSÊNCIA </strong> PÊSSEGO /LARANJA</td>
+				<td><strong>ESSÊNCIA </strong> PATCHOULY </td>
 				</tr>
 				<tr>
-				<td><strong>ESENCIA</strong> EUCALIPTUS</td>
-				<td><strong>ESENCIA</strong> PINO </td>
+				<td><strong>ESSÊNCIA </strong> EUCALIPTUS</td>
+				<td><strong>ESSÊNCIA </strong> PINHO </td>
 				</tr>
 				<tr class="panel-footer">
-				<td><strong>ESENCIA</strong> FLORAL </td>
-				<td><strong>ESENCIA</strong> POMELO</td>
+				<td><strong>ESSÊNCIA </strong> FLORAL </td>
+				<td><strong>ESSÊNCIA </strong> POMELO</td>
 				</tr>
 				<tr>
-				<td><strong>ESENCIA</strong> FRAMBUESA</td>
-				<td><strong>ESENCIA</strong> ROMERO</td>
+				<td><strong>ESSÊNCIA </strong> FRAMBOESA</td>
+				<td><strong>ESSÊNCIA </strong> ROMERO</td>
 				</tr>
 				<tr class="panel-footer">
-				<td><strong>ESENCIA</strong> FRUTAS FRESCAS</td>
-				<td><strong>ESENCIA</strong> ROSA</td>
+				<td><strong>ESSÊNCIA </strong> FRUTAS FRESCAS</td>
+				<td><strong>ESSÊNCIA </strong> ROSA</td>
 				</tr>
 				<tr>
-				<td><strong>ESENCIA</strong> FRUTILLA</td>
-				<td><strong>ESENCIA</strong> SANDALO</td>
+				<td><strong>ESSÊNCIA </strong> MORANGO</td>
+				<td><strong>ESSÊNCIA </strong> SÂNDALO</td>
 				</tr>
 				<tr class="panel-footer">
-				<td><strong>ESENCIA</strong> GARDENIA</td>
-				<td><strong>ESENCIA</strong> SANDALO HINDU</td>
+				<td><strong>ESSÊNCIA </strong> GARDÊNIA</td>
+				<td><strong>ESSÊNCIA </strong> SÂNDALO INDIANO </td>
 				</tr>
 				<tr>
-				<td><strong>ESENCIA</strong> FRUTILLA</td>
-				<td><strong>ESENCIA</strong> SANDALO</td>
+				<td><strong>ESSÊNCIA </strong> HERBAL</td>
+				<td><strong>ESSÊNCIA </strong> TILHA</td>
 				</tr>
 				<tr class="panel-footer">
-				<td><strong>ESENCIA</strong> GARDENIA</td>
-				<td><strong>ESENCIA</strong> SANDALO HINDU</td>
+				<td><strong>ESSÊNCIA </strong> INCIENSO</td>
+				<td><strong>ESSÊNCIA </strong> BAUNILHA</td>
 				</tr>
 				<tr>
-				<td><strong>ESENCIA</strong> HERBAL</td>
-				<td><strong>ESENCIA</strong> TILO</td>
+				<td><strong>ESSÊNCIA </strong> JAZMIN</td>
+				<td><strong>ESSÊNCIA </strong> VIOLETA</td>
 				</tr>
 				<tr class="panel-footer">
-				<td><strong>ESENCIA</strong> INCIENSO</td>
-				<td><strong>ESENCIA</strong> VAINILLA</td>
-				</tr>
-				<tr>
-				<td><strong>ESENCIA</strong> JAZMIN</td>
-				<td><strong>ESENCIA</strong> VIOLETA</td>
-				</tr>
-				<tr class="panel-footer">
-				<td><strong>ESENCIA</strong> LAVANDA</td>
+				<td><strong>ESSÊNCIA </strong> LAVANDA</td>
 				<td></td>
 				</tr>
 				</tbody>
