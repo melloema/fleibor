@@ -37,18 +37,18 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
         	</button>
-          <a class="navbar-brand" <?php if($path[2] == "index.php") echo 'href="#"'; else echo 'href="index.php"';?>>Fleibor</a>
+          <a class="navbar-brand" <?php if($path[3] == "index.php") echo 'href="#"'; else echo 'href="index.php"';?>>Fleibor</a>
           <div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/"></div>
           <div class="addthis_sharing_toolbox addthis-hidden">
           </div>
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-            <li <?php if($path[2] == "index.php") echo 'class="active"'; ?>><a <?php if($path[2] == "index.php") echo 'href="#"'; else echo 'href="index.php"';?>>Home</a></li>
-            <li <?php if($path[2] == "productos.php") echo 'class="active"'; ?>><a <?php if($path[2] == "productos.php") echo 'href="#"'; else echo 'href="productos.php"'?>>Produtos</a></li>
-            <li <?php if($path[2] == "events.php") echo 'class="active"'; ?>><a <?php if($path[2] == "events.php") echo 'href="#"'; else echo 'href="events.php"'?>>Eventos</a></li>
-            <li <?php if($path[2] == "company.php") echo 'class="active"'; ?>><a <?php if($path[2] == "company.php") echo 'href="#"'; else echo 'href="company.php"'?>>Companhia</a></li>
-            <li <?php if($path[2] == "contact.php") echo 'class="active"'; ?>><a <?php if($path[2] == "contact.php") echo 'href="#"'; else echo 'href="contact.php"'; ?>>Contato</a></li>
+            <li <?php if($path[3] == "index.php") echo 'class="active"'; ?>><a <?php if($path[3] == "index.php") echo 'href="#"'; else echo 'href="index.php"';?>>Home</a></li>
+            <li <?php if($path[3] == "productos.php") echo 'class="active"'; ?>><a <?php if($path[3] == "productos.php") echo 'href="#"'; else echo 'href="productos.php"'?>>Produtos</a></li>
+            <li <?php if($path[3] == "events.php") echo 'class="active"'; ?>><a <?php if($path[3] == "events.php") echo 'href="#"'; else echo 'href="events.php"'?>>Eventos</a></li>
+            <li <?php if($path[3] == "company.php") echo 'class="active"'; ?>><a <?php if($path[3] == "company.php") echo 'href="#"'; else echo 'href="company.php"'?>>Companhia</a></li>
+            <li <?php if($path[3] == "contact.php") echo 'class="active"'; ?>><a <?php if($path[3] == "contact.php") echo 'href="#"'; else echo 'href="contact.php"'; ?>>Contato</a></li>
           </ul>
           <div class="addthis_sharing_toolbox addthis pull-right">
           </div>
