@@ -13,61 +13,14 @@
     <style id="holderjs-style" type="text/css"></style>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
+    <!-- Go to www.addthis.com/dashboard to customize your tools -->
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53cd63e656cc5fc1"></script>
 	  <script src="js/general.js"></script>
 	</head>
-<div class="navbar-wrapper">
-	<div class="container">
-		<div class="navbar navbar-inverse navbar-static-top" role="navigation">
-    	<div class="container">
-  			<div class="navbar-header">
-        	<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-        	</button>
-          <a class="navbar-brand" href="#">Fleibor</a>
-        </div>
-        <div class="navbar-collapse collapse">
-          <ul class="nav navbar-nav">
-            <li><a href="index.php">Home</a></li>
-            <li class="active"><a href="#about">Productos</a></li>
-            <li><a href="">Eventos</a></li>
-            <li><a href="">Empresa</a></li>
-            <li><a href="">Contactenos</a></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-    <div id="myCarousel" class="carousel slide" data-ride="carousel">
-      <ol class="carousel-indicators">
-        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-        <li data-target="#myCarousel" data-slide-to="1" class=""></li>
-        <li data-target="#myCarousel" data-slide-to="2" class=""></li>
-      </ol>
-      <div class="carousel-inner">
-        <div class="item active">
-          <img class="imgBanner img-responsive" src="img/banner1.jpg">
-          <div class="container">
-            <div class="carousel-caption">
-              <h1>Laboratorio Fleibor srl.</h1>
-              <p>Nace en el mercado argentino en Agosto del año 1984 dedicado a la elaboración de esencias y colorantes. </p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Inicio</a></p>
-            </div>
-          </div>
-        </div>
-        <div class="item">
-          <img class="imgBanner"  src="img/banner2.jpg">
-        </div>
-        <div class="item">
-          <img class="imgBanner"  src="img/banner3.jpg">
-        </div>
-      </div>
-      <a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
-      <a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
-    </div>
+	<body>
+  	<?php
+      include("header.php");
+    ?>
     <div class="container letter-cont">
 	
       <a name="title"><h3 class="letter-title">Productos</h3></a>

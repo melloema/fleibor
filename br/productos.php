@@ -14,6 +14,8 @@
     <style id="holderjs-style" type="text/css"></style>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
+    <!-- Go to www.addthis.com/dashboard to customize your tools -->
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53cd63e656cc5fc1"></script>
 	  <script src="js/general.js"></script>
 	</head>
 	<body>
@@ -30,14 +32,14 @@
           <h4>Alimenticios</h4>
           <p class="download"><button id="bt-alimenticios" class="btn btn-default" type="button" >Ver »</button></p>
 		  <div id="li-alimenticios" class="list-group">
-		  <a href="#" class="list-group-item">Guloseimas</a>
-		  <a href="#" class="list-group-item">Bebidas não alcoólicas</a>
-          <a href="#" class="list-group-item">Bebidas alcoólicas</a>
-          <a href="#" class="list-group-item">Sorvetes</a>
-          <a href="#" class="list-group-item">Confeitaria caseira </a>          
-		  <a href="#" class="list-group-item">Padaria e confeitaria profissional </a>
-		  <a href="#" class="list-group-item">Chocolates</a>
-		  <a href="#" class="list-group-item">L&aacute;cteos</a>
+		  <a href="golosina.php#title" class="list-group-item">Guloseimas</a>
+		  <a href="bebidassa.php#title" class="list-group-item">Bebidas não alcoólicas</a>
+          <a href="bebidasca.php#title" class="list-group-item">Bebidas alcoólicas</a>
+          <a href="helados.php#title" class="list-group-item">Sorvetes</a>
+          <a href="reposteria.php#title" class="list-group-item">Confeitaria caseira </a>          
+		  <a href="panaderia.php#title" class="list-group-item">Padaria e confeitaria profissional </a>
+		  <a href="chocolates.php#tile" class="list-group-item">Chocolates</a>
+		  <a href="lacteos.php#title" class="list-group-item">L&aacute;cteos</a>
           </div>
         </div>
         <div class="col-lg-4 letter-color">
@@ -45,10 +47,10 @@
           <h4>Artesanatos</h4>
           <p class="download"><button id="bt-artesanias" class="btn btn-default" type="button" >Ver »</button></p>
 		  <div id="li-artesanias" class="list-group">
-		  <a href="#" class="list-group-item">Artigos para biscuit</a>
-		  <a href="#" class="list-group-item">Artigos para sabonetes artesanais</a>
-          <a href="#" class="list-group-item">Artigos para velas artesanais</a>
-          <a href="#" class="list-group-item">Especialidades</a>
+		  <a href="porcelana.php#title" class="list-group-item">Artigos para biscuit</a>
+		  <a href="jabones.php#title" class="list-group-item">Artigos para sabonetes artesanais</a>
+          <a href="velas.php#title" class="list-group-item">Artigos para velas artesanais</a>
+          <a href="especialidades.php#title" class="list-group-item">Especialidades</a>
           </div>
         </div>
         <div class="col-lg-4 letter-color">
@@ -56,7 +58,7 @@
           <h4>Mis Recetas</h4>
           <p class="download"><button id="bt-recetas" class="btn btn-default" type="button" >Ver »</button></p>
 		  <div id="li-recetas" class="list-group">
-		  <a href="#" class="list-group-item">Lista de Receitas</a>
+		  <a href="recetas.php#title" class="list-group-item">Lista de Receitas</a>
           </div>
 		  
 

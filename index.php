@@ -77,6 +77,7 @@
         </div>
       </div>
       <hr class="featurette-divider">
+<<<<<<< HEAD
       <div class="row featurette">
         <div class="col-md-6">
           <img class="featurette-image img-responsive img-circle" data-src="holder.js/500x500/auto" alt="Nuevo diseño de etiquetas!" src="img/publlicidad.jpg">
@@ -90,6 +91,9 @@
         </div>
       </div>
       
+=======
+
+>>>>>>> 3840e94cfcc79c9c373df8a7c7158009d28bbd44
       <hr class="featurette-divider">
       <?php
         include("footer.php");
