@@ -144,7 +144,11 @@
 					mercado de total definición. Encuentra su aplicación en el coloreado de cualquier masa para 
 					modelado (logrando tonos intensos y definidos), a saber: pasta de goma, masa de porcelana en frío, 
 					papel machet, etc. Al estar elaborados con colorantes alimenticios se convierte en un producto no 
+<<<<<<< HEAD
 					toxico y de máxima concentración en el poder de teñido. </li>
+=======
+					toxico y de máxima concentración en el poder de teñido.<a target="_blank" href="pdfs/lista_de_colorantes_en_pasta.pdf">Ver Colores</a> </li>
+>>>>>>> 2a7e4b30d1888beec64bf1e5a0c133e515ac524e
 					</p>
 					<br/>
 					<p>

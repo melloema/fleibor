@@ -96,7 +96,7 @@
                     <div class="col-lg-12">
 	
                         <h1 class="text-primary">Recetas por el Chef Daniel Lomazzo</h1>
-                        <a href="#menu-toggle" class="btn btn-default" id="menu-toggle"><< Ocultar</a>                 
+                       <!-- <a href="#menu-toggle" class="btn btn-default" id="menu-toggle"><< Ocultar</a>  -->               
 						<div class="main">
 							<div >
 							<p></p>

@@ -22,71 +22,123 @@
 	    ?>
 	    <div class="container company col-md-offset-2 col-md-8">
 			<div class="events-tittle">
-	        	<a name="title"><h3 class="letter-title">Art&iacute;culos para porcelana en fr&iacute;o</h3></a>
+	        	<a name="title"><h3 class="letter-title">Artigos para biscuit</h3></a>
 	      	</div>
 	      	<div class="content company row">
 	      		<div class="">
-	      			<p>Las técnicas del trabajo en <strong>porcelana en frío</strong> se han ido modificando, debido a eso 
-					todos los años desarrollamos <strong>nuevos productos</strong> para perfeccionar las técnicas y que usted
-					pueda obtener trabajos mas finos. </p>
+	      			<p>As técnicas do trabalho em <strong>biscuit</strong> foram mudando, 
+					por isso todos os anos vamos desenvolvendo <strong>novos produtos</strong> aperfeiçoando 
+					as técnicas para que você possa obter melhores trabalhos. </p>
 					<br/>
-	      			<p>Nuestros <strong>aditivos disponibles</strong> para usted son los siguientes:</strong></p>
+	      			<p>Nossos artigos para você são os seguintes:</p>
 					<br/>
-					<p><strong><span class="text-red">NUEVA LINEA: <u>FULGORADOS</u></span></strong> Pigmento en polvo con brillo metálico,
-					un nuevo concepto para pintar  su artesanía, aplicar en polvo sobre 
-					la superficie seca para lograr tonos esfumados. Para encontrar todo su 
-					brillo aplicar sobre la superficie de su modelo cera en pasta de piso y luego el polvo.</p>
-					<p> También se lo puede aplicar usando como medio barniz acrílico brillante 
-					o goma laca disuelta encontrando así aplicación colores plenos 
-					con reflejos nacarados y puntos destellantes. </p>
+					<p><strong><span class="text-red">NOVA LINHA: <u>FULGORADOS</u></span></strong> Pigmento em pó com brilho metálico, 
+					um novo conceito para pintar seu artesanato, aplicar o pó sem diluir sobre a superfície seca para 
+					obter tons esfumaçados. Para encontrar todo seu brilho aplicar cera de chão sobre a superfície a ser pintada e logo o pó.</p>
+					<p> Também pode ser aplicado usando como diluente verniz acrílico brilhante ou 
+					goma laca dissolvida para obter tons plenos com reflexos perolados e pontos cintilantes.
+					Anime-se a encontrar nesta linha outra forma de pintar seu artesanato com efeitos inéditos.</p>
 					<p> Anímese a encontrar en esta línea otra forma de pintar su artesanía con efectos inéditos.</p>
-					<p> <strong>Tonos: Amarillo, Azabache, Azul, Blanco, Cobre, Marrón, Naranja, Rojo, Verde, Violeta.</strong></p>
+					<p> <strong>Tons: Amarelo, Azeviche, Azul, Branco, Cobre, Marrom, Laranja, Vermelho, Verde, Violeta.</strong></p>
 					<br/>
-					<p><strong><span class="text-red">NOVEDAD!</span> FULGOR MÁGICO</strong> Novedoso producto hecho para dar un mágico brillo a superficies 
-					que se tornaran con efectos iridiscentes, brillantes o charolados. Se lo aplica ya sea en 
-					polvo o dispersándolo con alcohol, barniz acrílico brillante o goma laca. Para realizar el 
-					efecto de iluminación en los ojos de la figura modelada se recomienda aplicar el producto 
-					adhiriéndolo a la superficie con adhesivo vinílico encontrando así el efecto deseado.</p>
-					<p><strong>Tonos: Blanco, Celeste, Cobre, Dorado, Rojo, Verde y Violeta.</strong></p>
+					<p><strong><span class="text-red">NOVIDADE! </span> FULGOR MÁGICO</strong>  Inovador produto feito para dar um 
+					brilho mágico às superfíceis que se tornarão iridescentes, brilhantes ou envernizadas. Tem de ser 
+					aplicado em pó ou com álcool, verniz acrílico brilhante ou goma laca dissolvida. Para fazer o efeito 
+					de iluminação nos olhos dos bonecos é recomentável aplicar o produto aderindo-o com cola branca.</p>
+					<p><strong>Tons: Branco, Celeste, Cobre, Dourado, Vermelho, Verde e Violeta.</strong></p>
 					<br/>
-					<p><strong><span class="text-red">NOVEDAD!</span> PERFUME PARA PORCELANA EN FRÍO</strong> Aplicando una o dos gotas del 
-					producto en la figura o modelo ya terminado se logra que adquiera mayor realismo. Ver Listado</p>
+					<p><strong><span class="text-red">NOVIDADE!</span> PERFUME PARA BISCUIT </strong> Aplicar uma ou duas gotinhas do 
+					produto na figura ou no modelo terminado para atingir maior realismo. <a href="#esencias">Ver Lista</a></p>
 					<br/>
-					<p><strong><span class="text-red">NOVEDAD!</span> COLORANTES PARA AERÓGRAFO</strong> Ahora puede pintar su trabajo en azúcar o 
-					porcelana en frío con la nueva línea de colorantes para aerógrafos Fleibor, las 
-					superficies lucirán aterciopeladas con este producto. </p>
-					<p><strong>Colores: Amarillo, Azul, Azul O, Marrón, Naranja, Negro, Rojo A, Rojo E, Rojo P, Rosa, Verde y Violeta.</strong></p>
-					<p>Encuentre en este producto los cálidos tonos que su artesanía merece. </p>
+					<p><strong><span class="text-red">NOVIDADE! </span> CORANTES PARA AERÓGRAFO </strong> Agora você pode pintar seu 
+					trabalho em açúcar ou biscuit com a nova linha de corantes para aerógrafos Fleibor, as superfícies ficarão aveludadas com este produto.</p>
+					<p><strong>Cores: Amarelo, Azul, Azul O, Marrom, Laranja, Preto, Vermelho A, Vermelho E, Vermelho P, Rosa, Verde e Violeta.</strong></p>
+					<p>Encontre neste produto os tons cálidos que seu artesanato merece.  </p>
 					<br/>
-					<p><strong>COLORANTES EN PASTA</strong> Ponemos a su alcance la línea más extensa del mercado de 
-					total definición. Encuentra su aplicación en el coloreado de cualquier masa para
-					modelado (logrando tonos intensos y definidos), a saber: pasta de goma, masa de
-					porcelana en frío, papel machet, etc. Al estar elaborados con colorantes alimenticios 
-					se convierte en un producto no toxico y de máxima concentración en el poder de teñido. 
-					<span class="text-red">Lanzamiento de nuevos colores: <a href="#">Ver Colores</a></span></p>
+					<p><strong>CORANTES EM PASTA (CORANTES GEL)</strong> Colocamos a sua disposição a maior linha 
+					do mercado com cores de total definição. Tem sua própria aplicação no colorido de qualquer 
+					massa para modelado (atingindo tons intensos e definidos),exemplos de massas: massa elástica 
+					(massa de goma), massa de biscuit, massa para modelar, papel machê, etc. Sendo elaborados com 
+					corantes alimentícios se transformam em produtos não tóxicos e de máxima concentração.  
+					<span class="text-red">Lançamento de novas cores: <a target="_blank" href="img/coloresbr.jpg">Ver Colores</a></span></p>
 					<br/>
-					<p><strong>PORCE CLEAR</strong> blanquea la pasta de porcelana y aumenta su transparencia.
-					Se agrega a la pasta de porcelana lista para usar en una proporción de 2 gotas por cada 100g.</p>
+					<p><strong>PORCE CLEAR</strong> branqueia a massa de biscuit e aumenta sua 
+					transparência. Agregar 2 gotas à massa de biscuit para cada 100g e amassar.</p>
 					<br/>
-					<p><strong>BRILLOS (simil Glitter)</strong> las ventajas de polvos mas finos y brillantes, 
-					cambiando de color según el ángulo de incidencia de la luz. Colores: azul, 
-					estrellas, multicolor, oro, plata, rojo, rosa, tornasolado, verde.</p>
+					<p><strong>BRILHOS (simil Glitter)</strong>as vantagens de serem pós mais finos e brilhantes, 
+					mudando de cor dependendo do ângulo de incidência da luz. Cores: azul, estrelas, multicor, 
+					ouro, prata, vermelho, rosa, cintilante, verde.</p>
 					<br/>
 					<p><strong>DILUYENTE COL. PORCELANA </strong> </p>
 					<br/>
-					<p><strong>ILUMINADOR</strong> polvo superfino para lograr reflejos metálicos. De esta 
-					línea se conocía por tradición el polvo de nácar, nosotros hemos desarrollado 
-					distintos reflejos metalicos NACARADOS: polvo de nácar, azul, dorado, rojo, violeta y verde.</p>
+					<p><strong>ILUMINADOR</strong> pó super fino para obter reflexos metálicos. 
+					Desta linha o mais conhecido é o pó de nácar (madrepérola), nós desenvolvemos 
+					diferentes reflexos metálicos NACARADOS: pó de nácar, azul, dourado, vermelho, violeta y verde.</p>
 					<br/>
-					<p><strong>DILIUM</strong> diluyente ecológico para oleos. Reemplaza en su uso a la esencia de 
-					trementina, posee una fragancia cítrica y barre eficazmente los oleos. Secado rápido. </p>
+					<p><strong>DILIUM</strong> diluente ecológico para óleos. Substitui o uso da terebintina, 
+					tem uma fragância cítrica, lavando e esparramando eficientemente os óleos. Secagem rápida.</p>
 					<br/>
-					<p><strong>POLVOS PARA PÉTALOS</strong> para lograr colores esfumados se aplican en seco con un pincel o con los dedos.</p>
-					<p>Para lograr colores plenos, se aplican con un pincel mojado previamente en alcohol 
-					logrando un secado instantaneo.Producto no comestible y no toxico. <a href="#">Listado de Polvos para petalos</a></p>
+					<p><strong>PÓ PARA PÉTALAS</strong> para obter tons esfumaçados aplicar o pó 
+					seco com pincel seco ou com os dedos. Para obter tons plenos, aplicar com um 
+					pincel molhado em álcool, atingindo uma secagem instantânea. Produto não comestível e 
+					não tóxico.<a target="_blank" href="img/polvos_petalosbr.jpg"> Ver lista de pó para pétalas</a></p>
 					<br/>
 	      		</div>
 	      	</div>
+			<div class="panel panel-primary ">
+			<a name="esencias"></a><div class="panel-heading">Lista de Fragancias para Porcelana en Fr&iacute;o </div>
+				<table class="table"> 
+
+				<tbody>
+				<tr>
+				<td><strong>ESSÊNCIA </strong> FLOR DE LARANJEIRA</td>
+				<td><strong>ESSÊNCIA </strong> PRINCESA </td>
+				</tr>
+				<tr class="panel-footer">
+				<td ><strong>ESSÊNCIA </strong> CAMÉLIA</td>
+				<td><strong>ESSÊNCIA </strong> PÊSSEGO </td>
+				</tr>
+				<tr>
+				<td><strong>ESSÊNCIA </strong> CHOCOLATE </td>
+				<td><strong>ESSÊNCIA </strong> GARDÊNIA</td>
+				</tr>
+				<tr class="panel-footer">
+				<td><strong>ESSÊNCIA </strong> COLÔNIA BEBÊ</td>
+				<td><strong>ESSÊNCIA </strong> LILÁS</td>
+				</tr>
+				<tr>
+				<td><strong>ESSÊNCIA </strong> FLORAL</td>
+				<td><strong>ESSÊNCIA </strong> MAGNÓLIA </td>
+				</tr>
+				<tr class="panel-footer">
+				<td><strong>ESSÊNCIA </strong> MORANGO</td>
+				<td><strong>ESSÊNCIA </strong> NARDO </td>
+				</tr>
+				<tr>
+				<td><strong>ESSÊNCIA  </strong> JAZMIN</td>
+				<td><strong>ESSÊNCIA </strong> ORQUÍDEA </td>
+				</tr>
+				<tr class="panel-footer">
+				<td><strong>ESSÊNCIA </strong> LAVANDA</td>
+				<td><strong>ESSÊNCIA </strong> ROSA </td>
+				</tr>
+				<tr>
+				<td><strong>ESSÊNCIA  </strong> LILIUM</td>
+				<td><strong>ESSÊNCIA </strong> BAUNILHA</td>
+				</tr>
+				<tr class="panel-footer">
+				<td><strong>ESSÊNCIA </strong> MARGARIDA</td>
+				<td><strong>ESSÊNCIA </strong> VIOLETAS </td>
+				</tr>
+				<tr>
+				<td><strong>ESSÊNCIA  </strong> MIMOSA </td>
+				<td></td>
+				</tr>
+	
+				</tbody>
+				</table>
+
+			</div>
 			<br>
 
 

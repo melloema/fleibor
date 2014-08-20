@@ -141,7 +141,11 @@
 					</p>
 					<br/>
 					<p>
+<<<<<<< HEAD
 					<li><span class="strong">CORANTE EM PASTA (GEL)</span> Colocamos a sua disposição a maior linha do mercado com cores de total definição. Tem sua própria aplicação no colorido de qualquer massa para modelado (atingindo tons intensos e definidos), exemplos de massas: massa elástica (massa de goma), massa biscuit, massa para modelar papel machê, etc. Sendo elaborados com corantes alimentícios se tranformam em produtos não tóxicos e de máxima concentração. </li>
+=======
+					<li><span class="strong">CORANTE EM PASTA (GEL)</span> Colocamos a sua disposição a maior linha do mercado com cores de total definição. Tem sua própria aplicação no colorido de qualquer massa para modelado (atingindo tons intensos e definidos), exemplos de massas: massa elástica (massa de goma), massa biscuit, massa para modelar papel machê, etc. Sendo elaborados com corantes alimentícios se tranformam em produtos não tóxicos e de máxima concentração. <a target="_blank" href="img/coloresbr.jpg">Ver Cores</a> </li>
+>>>>>>> 2a7e4b30d1888beec64bf1e5a0c133e515ac524e
 					</p>
 					<br/>
 					<p>

@@ -50,7 +50,7 @@
 					<p><strong>Tonos: Blanco, Celeste, Cobre, Dorado, Rojo, Verde y Violeta.</strong></p>
 					<br/>
 					<p><strong><span class="text-red">NOVEDAD!</span> PERFUME PARA PORCELANA EN FRÍO</strong> Aplicando una o dos gotas del 
-					producto en la figura o modelo ya terminado se logra que adquiera mayor realismo. Ver Listado</p>
+					producto en la figura o modelo ya terminado se logra que adquiera mayor realismo. <a href="#esencias">Ver Listado</a></p>
 					<br/>
 					<p><strong><span class="text-red">NOVEDAD!</span> COLORANTES PARA AERÓGRAFO</strong> Ahora puede pintar su trabajo en azúcar o 
 					porcelana en frío con la nueva línea de colorantes para aerógrafos Fleibor, las 
@@ -63,7 +63,7 @@
 					modelado (logrando tonos intensos y definidos), a saber: pasta de goma, masa de
 					porcelana en frío, papel machet, etc. Al estar elaborados con colorantes alimenticios 
 					se convierte en un producto no toxico y de máxima concentración en el poder de teñido. 
-					<span class="text-red">Lanzamiento de nuevos colores: <a href="#">Ver Colores</a></span></p>
+					<span class="text-red">Lanzamiento de nuevos colores: <a target="_blank" href="pdfs/lista_de_colorantes_en_pasta.pdf">Ver Colores</a></span></p>
 					<br/>
 					<p><strong>PORCE CLEAR</strong> blanquea la pasta de porcelana y aumenta su transparencia.
 					Se agrega a la pasta de porcelana lista para usar en una proporción de 2 gotas por cada 100g.</p>
@@ -83,10 +83,64 @@
 					<br/>
 					<p><strong>POLVOS PARA PÉTALOS</strong> para lograr colores esfumados se aplican en seco con un pincel o con los dedos.</p>
 					<p>Para lograr colores plenos, se aplican con un pincel mojado previamente en alcohol 
-					logrando un secado instantaneo.Producto no comestible y no toxico. <a href="#">Listado de Polvos para petalos</a></p>
+					logrando un secado instantaneo.Producto no comestible y no toxico. <a target="_blank" href="pdfs/lista_de_colores_plovo_petalos.pdf">Listado de Polvos para petalos</a></p>
 					<br/>
 	      		</div>
 	      	</div>
+			<div class="panel panel-primary ">
+			<a name="esencias"></a><div class="panel-heading">Lista de Fragancias para Porcelana en Fr&iacute;o </div>
+				<table class="table"> 
+
+				<tbody>
+				<tr>
+				<td><strong>ESENCIA </strong> AGUA DE AZAHAR</td>
+				<td><strong>ESENCIA </strong> PRINCESA  </td>
+				</tr>
+				<tr class="panel-footer">
+				<td ><strong>ESENCIA </strong> CAMELIA</td>
+				<td><strong>ESENCIA </strong> DURAZNO </td>
+				</tr>
+				<tr>
+				<td><strong>ESENCIA </strong> CHOCOLATE </td>
+				<td><strong>ESENCIA </strong> GARDENIA</td>
+				</tr>
+				<tr class="panel-footer">
+				<td><strong>ESENCIA </strong> COLONIA BEBÉ </td>
+				<td><strong>ESENCIA </strong> LILÁS</td>
+				</tr>
+				<tr>
+				<td><strong>ESENCIA </strong> FLORAL</td>
+				<td><strong>ESENCIA </strong> MAGNOLIA </td>
+				</tr>
+				<tr class="panel-footer">
+				<td><strong>ESENCIA </strong> FRUTILLA</td>
+				<td><strong>ESENCIA </strong> NARDO </td>
+				</tr>
+				<tr>
+				<td><strong>ESENCIA  </strong> JAZMIN</td>
+				<td><strong>ESENCIA </strong> ORQUIDEA </td>
+				</tr>
+				<tr class="panel-footer">
+				<td><strong>ESENCIA </strong> LAVANDA</td>
+				<td><strong>ESENCIA </strong> ROSA </td>
+				</tr>
+				<tr>
+				<td><strong>ESENCIA  </strong> LILIUM</td>
+				<td><strong>ESENCIA </strong> VAINILLA </td>
+				</tr>
+				<tr class="panel-footer">
+				<td><strong>ESENCIA </strong> MARGARITA</td>
+				<td><strong>ESENCIA </strong> VIOLETAS </td>
+				</tr>
+				<tr>
+				<td><strong>ESENCIA  </strong> MIMOSA </td>
+				<td></td>
+				</tr>
+	
+				</tbody>
+				</table>
+
+			</div>
 			<br>
 
 
