@@ -66,22 +66,23 @@
             <p><span class="strong">E-Mail:</span><a href="MAILTO:arlete.verratti@uol.com.br"> arlete.verratti@uol.com.br </a></p>
             <p><span class="strong">WebSite:</span><a href="http://arlete.verratti.fotoblog.uol.com.br" target="_blank"> http://arlete.verratti.fotoblog.uol.com.br</a></p>
           </div>
-          <div class="content costa-rica col-md-4">
-            <h3><img src="img/crica_ch.jpg" alt="BRASIL" /> Costa Rica (Distribuidor)</h3>
-            <p><span class="strong">Nombre:</span> TIPS, S. A.</p>
-            <p><span class="strong">PBX:</span> 506-2543.2100 Ext 151</p>
-            <p><span class="strong">Telefono:</span> 506-2543-2151</p>
-            <p><span class="strong">Fax:</span>  506-2543-2113</p>
-            <p><span class="strong">E-Mail:</span><a href="mailto:mvilchez@tipscr.com "> mvilchez@tipscr.com </a></p>
-            <p><span class="strong">Skype:</span> mvilchez_tips</p>
+          <div class="content uruguay col-md-4">
+            <h3><img src="img/uru_ch.jpg" alt="uruguay" /> Uruguay (Distribuidor)</h3>
+            <p><span class="strong">Nombre:</span> Zanetti</p>
+            <p><span class="strong">Dirección:</span> Colonia 917 </p>
+            <p><span class="strong">Localidad:</span> Montevideo </p>
+            <p><span class="strong">Código Postal:</span> 1100 </p>
+            <p><span class="strong">Telefono:</span> 598-2903-0470 </p>
+            <p><span class="strong">E-Mail:</span><a href="MAILTO:roberto@zanetti.com.uy"> roberto@zanetti.com.uy </a></p>
+            <p><span class="strong">WebSite:</span><a href="http://www.zanetti.com.uy " target="_blank"> http://www.zanetti.com.uy </a></p>
           </div>
-          <div class="content paraguay col-md-4">
-            <h3><img src="img/para_ch.jpg" alt="BRASIL" /> Paraguay (Distribuidor)</h3>
-            <p><span class="strong">Nombre:</span> Palomar S.R.L..</p>
-            <p><span class="strong">Direccion:</span> Azara 499</p>
-            <p><span class="strong">Telefono:</span> 59521-454155</p>
-            <p><span class="strong">Celular:</span> +595971-551838</p>
-            <p><span class="strong">E-Mail:</span><a href="mailto:palomarimportexport@internetpersonal.com.py "> palomarimportexport@internetpersonal.com.py </a></p>
+          <div class="content chile col-md-4">
+            <h3><img src="img/chile.jpg" alt="chile" /> Chile (Distribuidor) </h3>
+            <p><span class="strong">Nombre:</span> Mano Dulce LTDA</p>
+            <p><span class="strong">Direccion:</span> Camino Buin Maipo 2815 </p>
+            <p><span class="strong">Localidad:</span> Santiago de Chile - Chile </p>
+            <p><span class="strong">Telefono:</span> 78999270 </p>
+            <p><span class="strong">E-Mail:</span><a href="mailto:cortezmatta@hotmail.com"> cortezmatta@hotmail.com </a></p>
           </div>
         </div>
       <hr class="featurette-divider">

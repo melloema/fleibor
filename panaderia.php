@@ -3,9 +3,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <link rel="shortcut icon" href="">
+    <meta name="description" content="En Laboratorio Fleibor srl trabajamos para dar la personalidad que su producto merece y tambien buscando en forma cotidiana nuevos productos que perfeccionen su trabajo. Llegamos al mercado a través de dos líneas de productos: artesanías y alimenticios.">
+    <meta name="author" content="Estudio Multimedia EB">
+    <link rel="shortcut icon" href="img/fleibor.ico">
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/carousel.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
@@ -22,7 +22,7 @@
 	    ?>
 	    <div class="container company col-md-offset-2 col-md-8">
 			<div class="events-tittle">
-	        	<a name="title"><h3 class="letter-title">Panader&iacute;a y Confiter&iacute;a</h3></a>
+	        	<h3 class="letter-title">Panader&iacute;a y Confiter&iacute;a</h3>
 	      	</div>
 	      	<div class="content company row">
 	      		<div class="">
@@ -125,7 +125,8 @@
 				</table>
 
 			</div>
-			
+				<div class="alert alert-info" role="alert" style="text-align: center"><h4>Descargar carta de colores</h4> <a class="btn btn-default" role="button" href="pdfs/lista_de_colorantes_en_pasta.pdf" title="Descargar carta de colores"><span class="glyphicon glyphicon-download-alt"></span>&nbsp;Descargar</a>  </div>
+				
 				<div class="content company row">
 				<h2 ><u>M&aacute;s Productos:</u></h2>
 	      		<div class="">
@@ -143,7 +144,7 @@
 					mercado de total definición. Encuentra su aplicación en el coloreado de cualquier masa para 
 					modelado (logrando tonos intensos y definidos), a saber: pasta de goma, masa de porcelana en frío, 
 					papel machet, etc. Al estar elaborados con colorantes alimenticios se convierte en un producto no 
-					toxico y de máxima concentración en el poder de teñido.<a href="#">Ver Colores</a> </li>
+					toxico y de máxima concentración en el poder de teñido. </li>
 					</p>
 					<br/>
 					<p>

@@ -3,9 +3,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <link rel="shortcut icon" href="">
+    <meta name="description" content="En Laboratorio Fleibor srl trabajamos para dar la personalidad que su producto merece y tambien buscando en forma cotidiana nuevos productos que perfeccionen su trabajo. Llegamos al mercado a través de dos líneas de productos: artesanías y alimenticios.">
+    <meta name="author" content="Estudio Multimedia EB">
+    <link rel="shortcut icon" href="img/fleibor.ico">
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/carousel.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
@@ -26,24 +26,24 @@
       <h3 class="letter-title">Cartela de Cores</h3>
       <div class="row">
         <div class="col-md-3 letter-color">
-          <img class="img-circle" data-src="holder.js/140x140" alt="140x140" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNDAiIGhlaWdodD0iMTQwIj48cmVjdCB3aWR0aD0iMTQwIiBoZWlnaHQ9IjE0MCIgZmlsbD0iI2VlZSI+PC9yZWN0Pjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjcwIiB5PSI3MCIgc3R5bGU9ImZpbGw6I2FhYTtmb250LXdlaWdodDpib2xkO2ZvbnQtc2l6ZToxMnB4O2ZvbnQtZmFtaWx5OkFyaWFsLEhlbHZldGljYSxzYW5zLXNlcmlmO2RvbWluYW50LWJhc2VsaW5lOmNlbnRyYWwiPjE0MHgxNDA8L3RleHQ+PC9zdmc+" style="width: 140px; height: 140px;">
+          <img class="img-circle" data-src="holder.js/140x140" alt="Corante en Pasta" src="img/colorante_pasta_140.jpg" style="width: 140px; height: 140px;">
           <h4>Corante en Pasta</h4>
           <p class="download"><a class="btn btn-warning" href="pdfs/lista_de_colorantes_en_pasta.pdf" role="button">Baixar Cartela de Cores</a></p>
         </div>
         <div class="col-md-3 letter-color">
-          <img class="img-circle" data-src="holder.js/140x140" alt="140x140" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNDAiIGhlaWdodD0iMTQwIj48cmVjdCB3aWR0aD0iMTQwIiBoZWlnaHQ9IjE0MCIgZmlsbD0iI2VlZSI+PC9yZWN0Pjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjcwIiB5PSI3MCIgc3R5bGU9ImZpbGw6I2FhYTtmb250LXdlaWdodDpib2xkO2ZvbnQtc2l6ZToxMnB4O2ZvbnQtZmFtaWx5OkFyaWFsLEhlbHZldGljYSxzYW5zLXNlcmlmO2RvbWluYW50LWJhc2VsaW5lOmNlbnRyYWwiPjE0MHgxNDA8L3RleHQ+PC9zdmc+" style="width: 140px; height: 140px;">
+          <img class="img-circle" data-src="holder.js/140x140" alt="Pós Pétalas" src="img/colorante_pasta_petalo_140.jpg" style="width: 140px; height: 140px;">
           <h4>Pós Pétalas</h4>
-          <p class="download"><a class="btn btn-warning" href="pdfs/lista_de_colorantes_para_aerografos.pdf" role="button">Baixar Cartela de Cores</a></p>
-        </div>
-        <div class="col-md-3 letter-color">
-          <img class="img-circle" data-src="holder.js/140x140" alt="140x140" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNDAiIGhlaWdodD0iMTQwIj48cmVjdCB3aWR0aD0iMTQwIiBoZWlnaHQ9IjE0MCIgZmlsbD0iI2VlZSI+PC9yZWN0Pjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjcwIiB5PSI3MCIgc3R5bGU9ImZpbGw6I2FhYTtmb250LXdlaWdodDpib2xkO2ZvbnQtc2l6ZToxMnB4O2ZvbnQtZmFtaWx5OkFyaWFsLEhlbHZldGljYSxzYW5zLXNlcmlmO2RvbWluYW50LWJhc2VsaW5lOmNlbnRyYWwiPjE0MHgxNDA8L3RleHQ+PC9zdmc+" style="width: 140px; height: 140px;">
-          <h4>Pós Pétalas Fluor</h4>
           <p class="download"><a class="btn btn-warning" href="pdfs/lista_de_colores_plovo_petalos.pdf" role="button">Baixar Cartela de Cores</a></p>
         </div>
         <div class="col-md-3 letter-color">
-          <img class="img-circle" data-src="holder.js/140x140" alt="140x140" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNDAiIGhlaWdodD0iMTQwIj48cmVjdCB3aWR0aD0iMTQwIiBoZWlnaHQ9IjE0MCIgZmlsbD0iI2VlZSI+PC9yZWN0Pjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjcwIiB5PSI3MCIgc3R5bGU9ImZpbGw6I2FhYTtmb250LXdlaWdodDpib2xkO2ZvbnQtc2l6ZToxMnB4O2ZvbnQtZmFtaWx5OkFyaWFsLEhlbHZldGljYSxzYW5zLXNlcmlmO2RvbWluYW50LWJhc2VsaW5lOmNlbnRyYWwiPjE0MHgxNDA8L3RleHQ+PC9zdmc+" style="width: 140px; height: 140px;">
-          <h4>Corante para Aerógrafo</h4>
+          <img class="img-circle" data-src="holder.js/140x140" alt="Pós Pétalas Fluor" src="img/colorante_pasta_petalo_fluor_140.jpg" style="width: 140px; height: 140px;">
+          <h4>Pós Pétalas Fluor</h4>
           <p class="download"><a class="btn btn-warning" href="pdfs/lista_de_colores_plovo_petalos_fluor.pdf" role="button">Baixar Cartela de Cores</a></p>
+        </div>
+        <div class="col-md-3 letter-color">
+          <img class="img-circle" data-src="holder.js/140x140" alt="Corante para Aerógrafo" src="img/colorante_aerografo_140.jpg" style="width: 140px; height: 140px;">
+          <h4>Corante para Aerógrafo</h4>
+          <p class="download"><a class="btn btn-warning" href="pdfs/lista_de_colorantes_para_aerografos.pdf" role="button">Baixar Cartela de Cores</a></p>
         </div>
       </div>
       <hr class="featurette-divider">

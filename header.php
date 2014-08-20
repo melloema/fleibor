@@ -57,7 +57,7 @@
       <img class="imgBanner"  src="img/banner3.jpg">
       <div class="container">
         <div class="carousel-caption">
-          <p><a class="btn btn-lg btn-primary" href="/contact.php" role="button">Pedido</a></p>
+          <p><a class="btn btn-lg btn-primary" href="contact.php" role="button">Clientes Mayoristas</a></p>
         </div>
       </div>
     </div>

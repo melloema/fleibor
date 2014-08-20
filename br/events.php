@@ -3,9 +3,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <link rel="shortcut icon" href="">
+    <meta name="description" content="En Laboratorio Fleibor srl trabajamos para dar la personalidad que su producto merece y tambien buscando en forma cotidiana nuevos productos que perfeccionen su trabajo. Llegamos al mercado a través de dos líneas de productos: artesanías y alimenticios.">
+    <meta name="author" content="Estudio Multimedia EB">
+    <link rel="shortcut icon" href="img/fleibor.ico">
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/carousel.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
@@ -24,15 +24,32 @@
 			<div class="events-tittle">
 	        	<h3 class="letter-title">Eventos</h3>
 	      	</div>
-	      	<div class="row featurette">
-	        	<div class="col-md-7">
-	          		<h2 class="featurette-heading">Evento Mis Tortas 2014 Marcela Capó.</h2>
-	          		<p class="lead">Sábado 17 de 14:00 a 21:00hs y Domingo 18 de 14:00 a 20:00h - CÍRCULO OFICIALES DE MAR Sarmiento 1867 Buenos Aires - Argentina </p>
-	        	</div>
-	        	<div class="col-md-5">
-	          		<img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="500x500" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MDAiIGhlaWdodD0iNTAwIj48cmVjdCB3aWR0aD0iNTAwIiBoZWlnaHQ9IjUwMCIgZmlsbD0iI2VlZSI+PC9yZWN0Pjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjI1MCIgeT0iMjUwIiBzdHlsZT0iZmlsbDojYWFhO2ZvbnQtd2VpZ2h0OmJvbGQ7Zm9udC1zaXplOjMxcHg7Zm9udC1mYW1pbHk6QXJpYWwsSGVsdmV0aWNhLHNhbnMtc2VyaWY7ZG9taW5hbnQtYmFzZWxpbmU6Y2VudHJhbCI+NTAweDUwMDwvdGV4dD48L3N2Zz4=">
-	        	</div>
-	      	</div>
+	      	      <div class="row featurette">
+			        <div class="col-md-7">
+			          <h2 class="featurette-heading textEvent">Cumplimos 30 años y lo festejamos con vos</h2>
+			          <p class="lead">Miércoles, 3 de septiembre de 14:00 a 18:30 <br/><a href="http://www.victoriapalace.com.ar/" title="Salón Victoria Palace">Salón Victoria Palace Av. Juan Bautista Alberdi 2664 CABA</a></p>
+			          <p class="lead">Te ofrecemos compartir 60 minutos con tu profesor preferido, el día miércoles 3 de Septiembre en los siguientes horarios:</p>
+			          <ul class='lead'>
+			            <li> 14hs Prof. Cecilia Morana (Decoración de tortas)</li>
+
+			            <li> 15.30hs Prof. Mirta Cao (Decoración de tortas)</li>
+
+			            <li> 17hs Prof. Isabel Vermal (Decoración de tortas)</li>
+
+			            <li> 18.30hs Prof. Mirta Biscardi (Decoración de tortas)</li>
+
+			            <li> 20hs Prof. Jorge Rubicce (Porcelana en frió) </li>
+			          </ul>
+			           <p class="lead"> Entrada gratuita previa reserva por teléfono al 4652-8035 de lunes a viernes de 8.30 a 13 y de 14 a 17hs o vía mail a fleibor@speedy.com.ar o info@laboratoriofleibor.com.ar recibiendo confirmación de disponibilidad.
+
+			            <strong>SORTEOS al finalizar cada demostración!!.</strong>
+
+			            Nuestra vida comercial ya esta madura y se lo debemos a ustedes. Gracias por elegirnos.</p>
+			        </div>
+			        <div class="col-md-5">
+			          <img class="featurette-image img-responsive img-circle" data-src="holder.js/500x500/auto" alt="Cumplimos 30 años y lo festejamos con vos" src="img/evento.jpg">
+			        </div>
+			      </div>
 	      	<hr class="featurette-divider">
 
 			<?php

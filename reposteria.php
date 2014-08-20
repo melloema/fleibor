@@ -22,7 +22,7 @@
 	    ?>
 	    <div class="container company col-md-offset-2 col-md-8">
 			<div class="events-tittle">
-	        	<a name="title"><h3 class="letter-title">Reposter&iacute;a Hogare&ntilde;a</h3></a>
+	        	<h3 class="letter-title">Reposter&iacute;a Hogare&ntilde;a</h3>
 	      	</div>
 	      	<div class="content company row">
 	      		<div class="">
@@ -156,7 +156,7 @@
 				</table>
 
 			</div>
-			
+				<div class="alert alert-info" role="alert" style="text-align: center"><h4>Descargar carta de colores</h4> <a class="btn btn-default" role="button" href="pdfs/lista_de_colorantes_en_pasta.pdf" title="Descargar carta de colores"><span class="glyphicon glyphicon-download-alt"></span>&nbsp;Descargar</a>  </div>
 				<div class="content company row">
 				<h2 ><u>M&aacute;s Productos:</u></h2>
 	      		<div class="">
@@ -173,7 +173,7 @@
 					el coloreado de cualquier masa para modelado (logrando tonos intensos y 
 					definidos), a saber: pasta de goma, masa de porcelana en frío, papel machet, 
 					etc. Al estar elaborados con colorantes alimenticios se convierte en un producto 
-					no toxico y de máxima concentración en el poder de teñido. <span class="text-red"><strong>Lanzamiento de nuevos colores:</strong><a href="#"> Ver Colores</a> </span></li>
+					no toxico y de máxima concentración en el poder de teñido. <span class="text-red"><strong>Lanzamiento de nuevos colores:</strong></span></li>
 					</p>
 					<br/>
 					<p>

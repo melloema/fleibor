@@ -3,9 +3,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <link rel="shortcut icon" href="">
+    <meta name="description" content="En Laboratorio Fleibor srl trabajamos para dar la personalidad que su producto merece y tambien buscando en forma cotidiana nuevos productos que perfeccionen su trabajo. Llegamos al mercado a través de dos líneas de productos: artesanías y alimenticios.">
+    <meta name="author" content="Estudio Multimedia EB">
+    <link rel="shortcut icon" href="img/fleibor.ico">
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/carousel.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
@@ -171,7 +171,7 @@
 				</table>
 
 			</div>
-			
+				<div class="alert alert-info" role="alert" style="text-align: center"><h4>Baixar Cartela de Cores</h4> <a class="btn btn-default" role="button" href="pdfs/lista_de_colorantes_en_pasta.pdf" title="Baixar Cartela de Cores"><span class="glyphicon glyphicon-download-alt"></span>&nbsp;Baixar</a>  </div>
 				<div class="content company row">
 				<h2 ><u>Mais Produtos:</u></h2>
 	      		<div class="">
@@ -183,7 +183,7 @@
 					</p>
 					<br/>
 					<p>
-					<li><span class="strong">CORANTE EM PASTA (GEL)</span> Colocamos a sua disposição a maior linha do mercado com cores de total definição. Tem sua própria aplicação no colorido de qualquer massa para modelado (atingindo tons intensos e definidos), exemplos de massas: massa elástica (massa de goma), massa de biscuit, papel machê, massa para modelar etc. Sendo elaborados com corantes alimentícios se transformam em produtos não tóxicos e de máxima concentração.<span class="text-red"><strong>Lançamento de novas cores:</strong><a href="#"> Ver Cores</a> </span></li>
+					<li><span class="strong">CORANTE EM PASTA (GEL)</span> Colocamos a sua disposição a maior linha do mercado com cores de total definição. Tem sua própria aplicação no colorido de qualquer massa para modelado (atingindo tons intensos e definidos), exemplos de massas: massa elástica (massa de goma), massa de biscuit, papel machê, massa para modelar etc. Sendo elaborados com corantes alimentícios se transformam em produtos não tóxicos e de máxima concentração.<span class="text-red"><strong>Lançamento de novas cores</strong></span></li>
 					</p>
 					<br/>
 					<p>

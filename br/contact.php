@@ -1,11 +1,11 @@
 <html lang="en">
-	<head>
+  <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="@EmaFilms">
-    <link rel="shortcut icon" href="">
+    <meta name="description" content="En Laboratorio Fleibor srl trabajamos para dar la personalidad que su producto merece y tambien buscando en forma cotidiana nuevos productos que perfeccionen su trabajo. Llegamos al mercado a través de dos líneas de productos: artesanías y alimenticios.">
+    <meta name="author" content="Estudio Multimedia EB">
+    <link rel="shortcut icon" href="img/fleibor.ico">
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/carousel.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
@@ -18,14 +18,14 @@
     <!-- Go to www.addthis.com/dashboard to customize your tools -->
     <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53cd63e656cc5fc1"></script>
 
-	</head>
-	<body>
-  	<?php
+  </head>
+  <body>
+    <?php
       include("header.php");
     ?>
     <div class="container contact">
         <div class="container contactform row">
-          <h3 class="letter-title text-center">Contato</h3>
+          <h3 class="letter-title text-center">Contactenos</h3>
           <hr class="featurette-divider">
           <div class="content description col-md-6">
             <h3><img src="img/arg_ch.jpg" alt="ARGENTINA" /> Argentina (Fábrica)</h3>
@@ -38,7 +38,7 @@
           </div>
           <form action="form-contact.php" class="col-md-5" id="contact-form" role="form" method="post">
             <div class="form-group">
-              <label for="name" class="control-label">Nome</label>
+              <label for="name" class="control-label">Nombre</label>
               <input type="text" class="form-control" id="name" name="name" placeholder="Nombre">
             </div>
             <div class="form-group">
@@ -46,7 +46,7 @@
               <input type="email" class="form-control" id="mail" name="email" placeholder="email">
             </div>
             <div class="form-group">
-              <label for="tel">Telefone</label>
+              <label for="tel">Telefono</label>
                 <input type="tel" class="form-control" id="tel" name="phone" placeholder="Telefono">
             </div>
             <div class="form-group">
@@ -66,22 +66,23 @@
             <p><span class="strong">E-Mail:</span><a href="MAILTO:arlete.verratti@uol.com.br"> arlete.verratti@uol.com.br </a></p>
             <p><span class="strong">WebSite:</span><a href="http://arlete.verratti.fotoblog.uol.com.br" target="_blank"> http://arlete.verratti.fotoblog.uol.com.br</a></p>
           </div>
-          <div class="content costa-rica col-md-4">
-            <h3><img src="img/crica_ch.jpg" alt="BRASIL" /> Costa Rica (Distribuidor)</h3>
-            <p><span class="strong">Nombre:</span> TIPS, S. A.</p>
-            <p><span class="strong">PBX:</span> 506-2543.2100 Ext 151</p>
-            <p><span class="strong">Telefono:</span> 506-2543-2151</p>
-            <p><span class="strong">Fax:</span>  506-2543-2113</p>
-            <p><span class="strong">E-Mail:</span><a href="mailto:mvilchez@tipscr.com "> mvilchez@tipscr.com </a></p>
-            <p><span class="strong">Skype:</span> mvilchez_tips</p>
+          <div class="content uruguay col-md-4">
+            <h3><img src="img/uru_ch.jpg" alt="uruguay" /> Uruguay (Distribuidor)</h3>
+            <p><span class="strong">Nombre:</span> Zanetti</p>
+            <p><span class="strong">Dirección:</span> Colonia 917 </p>
+            <p><span class="strong">Localidad:</span> Montevideo </p>
+            <p><span class="strong">Código Postal:</span> 1100 </p>
+            <p><span class="strong">Telefono:</span> 598-2903-0470 </p>
+            <p><span class="strong">E-Mail:</span><a href="MAILTO:roberto@zanetti.com.uy"> roberto@zanetti.com.uy </a></p>
+            <p><span class="strong">WebSite:</span><a href="http://www.zanetti.com.uy " target="_blank"> http://www.zanetti.com.uy </a></p>
           </div>
-          <div class="content paraguay col-md-4">
-            <h3><img src="img/para_ch.jpg" alt="BRASIL" /> Paraguay (Distribuidor)</h3>
-            <p><span class="strong">Nombre:</span> Palomar S.R.L..</p>
-            <p><span class="strong">Direccion:</span> Azara 499</p>
-            <p><span class="strong">Telefono:</span> 59521-454155</p>
-            <p><span class="strong">Celular:</span> +595971-551838</p>
-            <p><span class="strong">E-Mail:</span><a href="mailto:palomarimportexport@internetpersonal.com.py "> palomarimportexport@internetpersonal.com.py </a></p>
+          <div class="content chile col-md-4">
+            <h3><img src="img/chile.jpg" alt="chile" /> Chile (Distribuidor) </h3>
+            <p><span class="strong">Nombre:</span> Mano Dulce LTDA</p>
+            <p><span class="strong">Direccion:</span> Camino Buin Maipo 2815 </p>
+            <p><span class="strong">Localidad:</span> Santiago de Chile - Chile </p>
+            <p><span class="strong">Telefono:</span> 78999270 </p>
+            <p><span class="strong">E-Mail:</span><a href="mailto:cortezmatta@hotmail.com"> cortezmatta@hotmail.com </a></p>
           </div>
         </div>
       <hr class="featurette-divider">
@@ -89,5 +90,5 @@
         include("footer.php");
       ?>
     </div>
-	</body>
+  </body>
 </html>
