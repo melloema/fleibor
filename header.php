@@ -45,8 +45,7 @@
       <div class="container">
         <div class="carousel-caption">
           <h1>Laboratorio Fleibor srl.</h1>
-          <p>Nace en el mercado argentino en Agosto del año 1984 dedicado a la elaboración de esencias y colorantes. </p>
-          <p><a class="btn btn-lg btn-primary" href="#" role="button">Inicio</a></p>
+          <p><a class="btn btn-sm btn-primary" href="index.php" role="button">Inicio</a></p>
         </div>
       </div>
     </div>
@@ -57,7 +56,7 @@
       <img class="imgBanner"  src="img/banner3.jpg">
       <div class="container">
         <div class="carousel-caption">
-          <p><a class="btn btn-lg btn-primary" href="contact.php" role="button">Clientes Mayoristas</a></p>
+          <p><a class="btn btn-sm btn-primary" href="contact.php" role="button">Clientes Mayoristas</a></p>
         </div>
       </div>
     </div>

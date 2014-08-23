@@ -29,7 +29,7 @@
 			          <h2 class="featurette-heading textEvent">Cumplimos 30 años y lo festejamos con vos</h2>
 			          <p class="lead">Miércoles, 3 de septiembre de 14:00 a 18:30 <br/><a href="http://www.victoriapalace.com.ar/" title="Salón Victoria Palace">Salón Victoria Palace Av. Juan Bautista Alberdi 2664 CABA</a></p>
 			          <p class="lead">Te ofrecemos compartir 60 minutos con tu profesor preferido, el día miércoles 3 de Septiembre en los siguientes horarios:</p>
-			          <ul class='lead'>
+			          <ul class='lead itemsul'>
 			            <li> 14hs Prof. Cecilia Morana (Decoración de tortas)</li>
 
 			            <li> 15.30hs Prof. Mirta Cao (Decoración de tortas)</li>

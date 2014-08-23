@@ -23,39 +23,52 @@
       include("header.php");
     ?>
     <div class="container letter-cont">
-      <h3 class="letter-title">Carta de Colores</h3>
-      <div class="row">
-        <div class="col-md-3 letter-color">
-          <img class="img-circle" data-src="holder.js/140x140" alt="Colorante en pasta" src="img/colorante_pasta_140.jpg" style="width: 140px; height: 140px;">
-          <h4>Colorante en Pasta</h4>
-          <p class="download"><a class="btn btn-warning" href="pdfs/lista_de_colorantes_en_pasta.pdf" role="button">Descargar Carta de Colores</a></p>
-        </div>
-        <div class="col-md-3 letter-color">
-          <img class="img-circle" data-src="holder.js/140x140" alt="Polvos para Pétalos" src="img/colorante_pasta_petalo_140.jpg" style="width: 140px; height: 140px;">
-          <h4>Polvos para Pétalos</h4>
-          <p class="download"><a class="btn btn-warning" href="pdfs/lista_de_colores_plovo_petalos.pdf" role="button">Descargar Carta de Colores</a></p>
-        </div>
-        <div class="col-md-3 letter-color">
-          <img class="img-circle" data-src="holder.js/140x140" alt="Polvos para Pétalos Fluor" src="img/colorante_pasta_petalo_fluor_140.jpg" style="width: 140px; height: 140px;">
-          <h4>Polvos para Pétalos Fluor</h4>
-          <p class="download"><a class="btn btn-warning" href="pdfs/lista_de_colores_plovo_petalos_fluor.pdf" role="button">Descargar Carta de Colores</a></p>
-        </div>
-        <div class="col-md-3 letter-color">
-          <img class="img-circle" data-src="holder.js/140x140" alt="Colorante para Aerógrafo" src="img/colorante_aerografo_140.jpg" style="width: 140px; height: 140px;">
-          <h4>Colorante para Aerógrafo</h4>
-          <p class="download"><a class="btn btn-warning" href="pdfs/lista_de_colorantes_para_aerografos.pdf" role="button">Descargar Carta de Colores</a></p>
-        </div>
-      </div>
+      <div class="bienvenida">
+          <h3 class="letter-title">Bienvenidos al website Fleibor </h3>
+          <p><strong>Laboratorio Fleibor S.R.L. </strong>nace en el mercado argentino en Agosto del año 1984 dedicado a la elaboración de esencias y colorantes.
+
+          Desde entonces trabajamos para dar la personalidad que su producto merece, a través de aromas y colores originales.
+
+          Trabajamos para estimular los sentidos del olfato y la vista, pero claro, en este punto nos alejamos de la ciencia porque el resultado que se obtiene utilizando nuestros productos va mas allá de lo esperado cuando definimos el perfume de la cocina de mamá o coloreamos la torta de su bebe.
+
+          Llegamos al mercado a través de dos líneas de productos: alimenticios y artesanías.</p>
+       </div> 
+  
+       <div class="jumbotron">
+          <h3 class="letter-title">Cartas de Colores</h3>
+          <div class="row contColores">
+            <div class="col-md-3 letter-color">
+              <img class="img-circle" data-src="holder.js/140x140" alt="Colorante en pasta" src="img/colorante_pasta_140.jpg" style="width: 120px; height: 120px;">
+              <h4>Colorante en Pasta</h4>
+              <p class="download"><a class="btn btn-warning" href="pdfs/lista_de_colorantes_en_pasta.pdf" role="button">Descargar Carta de Colores</a></p>
+            </div>
+            <div class="col-md-3 letter-color">
+              <img class="img-circle" data-src="holder.js/140x140" alt="Polvos para Pétalos" src="img/colorante_pasta_petalo_140.jpg" style="width: 120px; height: 120px;">
+              <h4>Polvos para Pétalos</h4>
+              <p class="download"><a class="btn btn-warning" href="pdfs/lista_de_colores_plovo_petalos.pdf" role="button">Descargar Carta de Colores</a></p>
+            </div>
+            <div class="col-md-3 letter-color">
+              <img class="img-circle" data-src="holder.js/140x140" alt="Polvos para Pétalos Fluor" src="img/colorante_pasta_petalo_fluor_140.jpg" style="width: 120px; height: 120px;">
+              <h4>Polvos para Pétalos Fluor</h4>
+              <p class="download"><a class="btn btn-warning" href="pdfs/lista_de_colores_plovo_petalos_fluor.pdf" role="button">Descargar Carta de Colores</a></p>
+            </div>
+            <div class="col-md-3 letter-color">
+              <img class="img-circle" data-src="holder.js/140x140" alt="Colorante para Aerógrafo" src="img/colorante_aerografo_140.jpg" style="width: 120px; height: 120px;">
+              <h4>Colorante para Aerógrafo</h4>
+              <p class="download"><a class="btn btn-warning" href="pdfs/lista_de_colorantes_para_aerografos.pdf" role="button">Descargar Carta de Colores</a></p>
+            </div>
+          </div>
+        </div>  
       <hr class="featurette-divider">
       <div class="events-tittle">
         <h3 class="letter-title" id="events">Eventos</h3>
       </div>
       <div class="row featurette">
         <div class="col-md-7">
-          <h2 class="featurette-heading textEvent">Cumplimos 30 años y lo festejamos con vos</h2>
+          <h2 class="textEvent ">Cumplimos 30 años y lo festejamos con vos</h2>
           <p class="lead">Miércoles, 3 de septiembre de 14:00 a 18:30 <br/><a href="http://www.victoriapalace.com.ar/" title="Salón Victoria Palace">Salón Victoria Palace Av. Juan Bautista Alberdi 2664 CABA</a></p>
           <p class="lead">Te ofrecemos compartir 60 minutos con tu profesor preferido, el día miércoles 3 de Septiembre en los siguientes horarios:</p>
-          <ul class='lead'>
+          <ul class='lead itemsul'>
             <li> 14hs Prof. Cecilia Morana (Decoración de tortas)</li>
 
             <li> 15.30hs Prof. Mirta Cao (Decoración de tortas)</li>
@@ -73,17 +86,17 @@
             Nuestra vida comercial ya esta madura y se lo debemos a ustedes. Gracias por elegirnos.</p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive img-circle" data-src="holder.js/500x500/auto" alt="Cumplimos 30 años y lo festejamos con vos" src="img/evento.jpg">
+          <img class="featurette-image img-responsive img-circle" data-src="holder.js/500x500/auto" style="width: 420px; height: 420px;" alt="Cumplimos 30 años y lo festejamos con vos" src="img/evento.jpg">
         </div>
       </div>
       <hr class="featurette-divider">
 
       <div class="row featurette">
         <div class="col-md-6">
-          <img class="featurette-image img-responsive img-circle" data-src="holder.js/500x500/auto" alt="Nuevo diseño de etiquetas!" src="img/publlicidad.jpg">
+          <img class="featurette-image img-responsive img-circle" data-src="holder.js/500x500/auto" style="width: 420px; height: 420px;" alt="Nuevo diseño de etiquetas!" src="img/publlicidad.jpg">
         </div>
         <div class="col-md-6">
-          <h2 class="featurette-heading noticia">Nuevo diseño de etiquetas!<br/><span class="text-muted">Seguridad e identificación</span></h2>
+          <h2 class="letter-title textEvent"> Nuevo diseño de etiquetas!<br/><span class="letter-title textEvent text-muted">Seguridad e identificación</span></h2>
           <p class="lead">Ahora sellamos nuestros potes de colorantes con lamina de seguridad!<br/> 
           A partir de esta semana comenzamos a sellar nuestros potes con una lámina de aluminio para evitar derrames y brindarles mayor seguridad en cuanto a la conservación de nuestros productos. 
           También modificamos el diseño de nuestras etiquetas, en la parte inferior de la misma encontraran una línea con el tono correspondiente a cada uno de los 46 colores que producimos.

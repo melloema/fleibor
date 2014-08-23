@@ -23,28 +23,40 @@
       include("header.php");
     ?>
     <div class="container letter-cont">
-      <h3 class="letter-title">Cartela de Cores</h3>
-      <div class="row">
-        <div class="col-md-3 letter-color">
-          <img class="img-circle" data-src="holder.js/140x140" alt="Corante en Pasta" src="img/colorante_pasta_140.jpg" style="width: 140px; height: 140px;">
-          <h4>Corante en Pasta</h4>
-          <p class="download"><a class="btn btn-warning" href="pdfs/lista_de_colorantes_en_pasta.pdf" role="button">Baixar Cartela de Cores</a></p>
-        </div>
-        <div class="col-md-3 letter-color">
-          <img class="img-circle" data-src="holder.js/140x140" alt="Pós Pétalas" src="img/colorante_pasta_petalo_140.jpg" style="width: 140px; height: 140px;">
-          <h4>Pós Pétalas</h4>
-          <p class="download"><a class="btn btn-warning" href="pdfs/lista_de_colores_plovo_petalos.pdf" role="button">Baixar Cartela de Cores</a></p>
-        </div>
-        <div class="col-md-3 letter-color">
-          <img class="img-circle" data-src="holder.js/140x140" alt="Pós Pétalas Fluor" src="img/colorante_pasta_petalo_fluor_140.jpg" style="width: 140px; height: 140px;">
-          <h4>Pós Pétalas Fluor</h4>
-          <p class="download"><a class="btn btn-warning" href="pdfs/lista_de_colores_plovo_petalos_fluor.pdf" role="button">Baixar Cartela de Cores</a></p>
-        </div>
-        <div class="col-md-3 letter-color">
-          <img class="img-circle" data-src="holder.js/140x140" alt="Corante para Aerógrafo" src="img/colorante_aerografo_140.jpg" style="width: 140px; height: 140px;">
-          <h4>Corante para Aerógrafo</h4>
-          <p class="download"><a class="btn btn-warning" href="pdfs/lista_de_colorantes_para_aerografos.pdf" role="button">Baixar Cartela de Cores</a></p>
-        </div>
+      <div class="bienvenida">
+          <h3 class="letter-title">Bem-vindos ao website Fleibor </h3>
+          <p><strong>Laboratorio Fleibor S.R.L. </strong> nasceu no mercado argentino em Agosto de 1984 dedicado à elaboração de essências e corantes.
+
+          Desde então trabalhamos para a identidade que seu produto merece, através de aromas e cores originais.
+
+          Trabalhamos para estimular os sentidos do olfato e da visão, mas neste ponto nos afastamos da ciência porque o resultado obtido com a utilização de nossos produtos vai além do esperado quando definimos o cheiro da cozinha de nossa mãe ou tingimos o bolo de seu bebê.
+
+          Nossos produtos são fornecidos em duas linhas:produtos: alimentícios e produtos para artesanato.</p>
+       </div> 
+      <div class="jumbotron">
+        <h3 class="letter-title">Cartela de Cores</h3>
+        <div class="row contColores">
+            <div class="col-md-3 letter-color">
+              <img class="img-circle" data-src="holder.js/140x140" alt="Corante en Pasta" src="img/colorante_pasta_140.jpg" style="width: 120px; height: 120px;">
+              <h4>Corante en Pasta</h4>
+              <p class="download"><a class="btn btn-warning" href="pdfs/lista_de_colorantes_en_pasta.pdf" role="button">Baixar Cartela de Cores</a></p>
+            </div>
+            <div class="col-md-3 letter-color">
+              <img class="img-circle" data-src="holder.js/140x140" alt="Pós Pétalas" src="img/colorante_pasta_petalo_140.jpg" style="width: 120px; height: 120px;">
+              <h4>Pós Pétalas</h4>
+              <p class="download"><a class="btn btn-warning" href="pdfs/lista_de_colores_plovo_petalos.pdf" role="button">Baixar Cartela de Cores</a></p>
+            </div>
+            <div class="col-md-3 letter-color">
+              <img class="img-circle" data-src="holder.js/140x140" alt="Pós Pétalas Fluor" src="img/colorante_pasta_petalo_fluor_140.jpg" style="width: 120px; height: 120px;">
+              <h4>Pós Pétalas Fluor</h4>
+              <p class="download"><a class="btn btn-warning" href="pdfs/lista_de_colores_plovo_petalos_fluor.pdf" role="button">Baixar Cartela de Cores</a></p>
+            </div>
+            <div class="col-md-3 letter-color">
+              <img class="img-circle" data-src="holder.js/140x140" alt="Corante para Aerógrafo" src="img/colorante_aerografo_140.jpg" style="width: 120px; height: 120px;">
+              <h4>Corante para Aerógrafo</h4>
+              <p class="download"><a class="btn btn-warning" href="pdfs/lista_de_colorantes_para_aerografos.pdf" role="button">Baixar Cartela de Cores</a></p>
+            </div>
+         </div>
       </div>
       <hr class="featurette-divider">
       <?php

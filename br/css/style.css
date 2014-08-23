@@ -57,8 +57,9 @@
 
 
 .letter-title {
-	font-size: 50px;
+	font-size: 33px;
 	margin-bottom: 30px;
+	text-align: left;
 }
 
 .letter-color {
@@ -78,7 +79,7 @@
 
 .events-tittle {
 	text-align: center;
-	margin-bottom: 100px;
+	margin-bottom: 15px;
 }
 
 #events {
@@ -154,8 +155,8 @@ background: none;
 }
 .carousel-inner {
 
-min-height: 500px;
-height: 500px;
+min-height: 320px;
+height: 320px;
 margin: 0 auto;
 width: 100%;
 max-width: 1920px;
@@ -171,7 +172,7 @@ overflow:hiden !important;
 }
 .item {
 	min-height: 500px;
-height: 500px;
+height: 320px;
 margin: 0 auto;
 width: 100%;
 max-width: 1920px;
@@ -194,8 +195,8 @@ background-size: cover;
 overflow:hiden !important; 
 }
 .carousel{
-		min-height: 500px;
-height: 500px;
+		min-height: 320px !important;
+height: 320px;
 margin: 0 auto;
 width: 100%;
 max-width: 1920px;
@@ -208,8 +209,8 @@ background-size: cover;
 overflow:hiden !important; 
 }
 .carousel-inner>.active, .carousel-inner>.next, .carousel-inner>.prev {
-		min-height: 500px;
-height: 500px;
+		min-height: 320px !important;
+height: 320px;
 margin: 0 auto;
 width: 100%;
 max-width: 1920px;
@@ -247,7 +248,30 @@ top: -49;
 }
 .lead{
 	text-align: left;
+	font-size: 14px;
+	padding-left: 15px;
+}
+.itemsul{
+	text-align: left;
+	font-size: 14px;
+	padding-left: 58px;
 }
 .textEvent{
 	margin-top: 0px !important;
+	font-size: 33;
+	padding: 0px;
+}
+.bienvenida{
+text-align: left;
+padding: 5px;
+margin-top: 44px;
+}
+.contColores{
+	margin-top: 10px;
+}
+.text-muted{
+	padding-left: 15px;
+}
+.featurette-divider{
+	margin:50px 0px;
 }
