@@ -57,14 +57,15 @@
               <button type="submit" class="btn btn-warning pull-right">Enviar</button>
             </div>
           </form>
-          <div class="content brazil col-md-4">
-            <h3><img src="img/grasil_ch.jpg" alt="BRASIL" /> BRASIL (Distribuidor)</h3>
-            <p><span class="strong">Nombre:</span> VERRATTI COMERCIO, IMPORTAÇAO E EXPORTAÇAO de Productos para Artesanos limitada.</p>
-            <p><span class="strong">Dirección:</span> Jose Moreira Fraga, 62</p>
+          <div class="content costa-rica col-md-4">
+            <h3><img src="img/crica_ch.jpg" alt="BRASIL" /> Costa Rica (Distribuidor)</h3>
+            <p><span class="strong">Nombre:</span> TIPS, S. A.</p>
+            <p><span class="strong">PBX:</span> 506-2543.2100 Ext 151</p>
+            <p><span class="strong">Telefono:</span> 506-2543.2151</p>
+            <p><span class="strong">Fax:</span> 506-2543.2113</p>
             <p><span class="strong">Localidad:</span> Panamericano - Sao Paulo - Brasil</p>
-            <p><span class="strong">Telefono:</span> 55-11-3948-8401</p>
-            <p><span class="strong">E-Mail:</span><a href="MAILTO:arlete.verratti@uol.com.br"> arlete.verratti@uol.com.br </a></p>
-            <p><span class="strong">WebSite:</span><a href="http://arlete.verratti.fotoblog.uol.com.br" target="_blank"> http://arlete.verratti.fotoblog.uol.com.br</a></p>
+            <p><span class="strong">E-Mail:</span><a href="MAILTO:mvilchez@tipscr.com"> mvilchez@tipscr.com </a></p>
+            <p><span class="strong">Skype:</span> mvilchez_tips</p>
           </div>
           <div class="content uruguay col-md-4">
             <h3><img src="img/uru_ch.jpg" alt="uruguay" /> Uruguay (Distribuidor)</h3>
