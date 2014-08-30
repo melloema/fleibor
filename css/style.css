@@ -109,6 +109,9 @@
 label.error {
 	color: #a94442;
 }
+#form_idioma{
+	display: inline-block;
+}
 #form_idioma button{
 
 width: 37px;
@@ -124,7 +127,7 @@ background: none;
  border:solid #fff 2px !important;
 }
 .menuIdioma{
-	width: 92px;
+	width: 125px;
 	display: block;
 	float: right;
 	height: 37px;
